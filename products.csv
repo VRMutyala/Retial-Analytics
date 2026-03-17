@@ -1,0 +1,2001 @@
+product_id,product_name,category,cost_price,selling_price
+1,Koo Baked Beans 410g Pack,Snacks,16.48,24.61
+2,Five Roses Tea 100s Unit,Bakery,15.29,19.47
+3,Albany Brown Bread Bottle,Dairy,43.21,62.94
+4,Nescafe Coffee 200g Pack,Cleaning,25.57,31.53
+5,Koo Baked Beans 410g Box,Beverages,29.61,40.02
+6,Five Roses Tea 100s Box,Groceries,38.94,49.65
+7,Sunlight Dish Liquid 750ml Bottle,Dairy,25.39,31.34
+8,Simba Chips 120g Pack,Pantry,9.07,13.3
+9,Clover Full Cream Milk 1L Pack,Cleaning,15.16,18.35
+10,Coca-Cola 500ml Bottle,Cleaning,32.53,39.74
+11,Albany Brown Bread Unit,Cleaning,16.8,24.29
+12,Albany Brown Bread Bottle,Groceries,40.44,53.64
+13,Clover Full Cream Milk 1L Box,Pantry,11.36,16.53
+14,Nescafe Coffee 200g Bottle,Pantry,9.31,12.26
+15,Clover Full Cream Milk 1L Unit,Beverages,44.69,57.54
+16,Simba Chips 120g Bottle,Cleaning,13.5,18.31
+17,Koo Baked Beans 410g Box,Snacks,16.96,23.04
+18,Clover Full Cream Milk 1L Unit,Pantry,44.36,70.88
+19,Simba Chips 120g Unit,Cleaning,20.74,27.5
+20,Nestle Milo 500g Pack,Dairy,21.64,32.02
+21,Simba Chips 120g Box,Snacks,15.82,24.25
+22,Simba Chips 120g Pack,Snacks,13.05,20.23
+23,Clover Full Cream Milk 1L Box,Cleaning,43.99,54.37
+24,Five Roses Tea 100s Bottle,Snacks,18.35,28.96
+25,Clover Full Cream Milk 1L Bottle,Bakery,45.06,55.75
+26,Simba Chips 120g Unit,Bakery,40.41,51.76
+27,Sunlight Dish Liquid 750ml Unit,Bakery,40.9,64.91
+28,Simba Chips 120g Pack,Bakery,6.77,10.1
+29,Sunlight Dish Liquid 750ml Bottle,Pantry,18.91,24.44
+30,Nestle Milo 500g Unit,Cleaning,14.39,18.25
+31,Albany Brown Bread Bottle,Pantry,30.03,36.26
+32,Koo Baked Beans 410g Pack,Cleaning,7.32,9.58
+33,Omo Washing Powder 2kg Unit,Groceries,37.72,56.72
+34,Nescafe Coffee 200g Unit,Cleaning,37.47,57.1
+35,Simba Chips 120g Unit,Dairy,9.75,14.38
+36,Sunlight Dish Liquid 750ml Pack,Pantry,30.96,48.69
+37,Sunlight Dish Liquid 750ml Pack,Dairy,23.05,35.68
+38,Nescafe Coffee 200g Unit,Beverages,5.78,7.64
+39,Nescafe Coffee 200g Bottle,Dairy,41.52,51.1
+40,Koo Baked Beans 410g Unit,Snacks,44.32,67.93
+41,Sunlight Dish Liquid 750ml Unit,Dairy,12.09,15.99
+42,Clover Full Cream Milk 1L Unit,Groceries,17.82,25.88
+43,Five Roses Tea 100s Pack,Pantry,44.16,57.06
+44,Five Roses Tea 100s Unit,Dairy,28.45,43.1
+45,Koo Baked Beans 410g Pack,Cleaning,34.93,48.21
+46,Sunlight Dish Liquid 750ml Bottle,Pantry,28.41,34.29
+47,Five Roses Tea 100s Box,Snacks,5.32,6.83
+48,Albany Brown Bread Unit,Beverages,13.09,18.54
+49,Coca-Cola 500ml Pack,Pantry,37.03,57.3
+50,Koo Baked Beans 410g Box,Cleaning,10.35,14.89
+51,Omo Washing Powder 2kg Bottle,Groceries,48.76,73.29
+52,Simba Chips 120g Pack,Pantry,48.22,75.09
+53,Koo Baked Beans 410g Pack,Pantry,15.28,18.46
+54,Omo Washing Powder 2kg Unit,Bakery,48.9,59.72
+55,Omo Washing Powder 2kg Box,Snacks,20.45,30.5
+56,Clover Full Cream Milk 1L Bottle,Beverages,41.7,56.93
+57,Clover Full Cream Milk 1L Unit,Snacks,46.13,56.59
+58,Omo Washing Powder 2kg Pack,Snacks,37.25,54.91
+59,Albany Brown Bread Bottle,Beverages,40.12,61.5
+60,Albany Brown Bread Pack,Cleaning,14.35,22.15
+61,Nescafe Coffee 200g Pack,Beverages,9.39,14.98
+62,Omo Washing Powder 2kg Pack,Dairy,22.1,30.19
+63,Omo Washing Powder 2kg Unit,Groceries,17.59,22.64
+64,Nescafe Coffee 200g Box,Pantry,34.51,49.37
+65,Albany Brown Bread Unit,Bakery,19.54,27.68
+66,Simba Chips 120g Bottle,Bakery,10.65,16.69
+67,Clover Full Cream Milk 1L Bottle,Dairy,44.09,53.4
+68,Simba Chips 120g Bottle,Beverages,6.38,8.08
+69,Albany Brown Bread Box,Groceries,37.06,59.06
+70,Clover Full Cream Milk 1L Bottle,Dairy,43.47,65.79
+71,Five Roses Tea 100s Unit,Bakery,22.34,29.05
+72,Nescafe Coffee 200g Bottle,Groceries,18.11,25.65
+73,Coca-Cola 500ml Unit,Groceries,23.18,31.67
+74,Sunlight Dish Liquid 750ml Bottle,Pantry,17.13,24.26
+75,Koo Baked Beans 410g Bottle,Beverages,41.58,66.43
+76,Clover Full Cream Milk 1L Box,Beverages,32.85,44.91
+77,Simba Chips 120g Bottle,Beverages,9.22,13.66
+78,Nestle Milo 500g Bottle,Pantry,41.57,61.7
+79,Koo Baked Beans 410g Unit,Snacks,23.4,33.0
+80,Nestle Milo 500g Box,Pantry,34.31,48.77
+81,Coca-Cola 500ml Pack,Snacks,20.74,25.54
+82,Omo Washing Powder 2kg Box,Groceries,21.14,31.03
+83,Nescafe Coffee 200g Pack,Cleaning,16.6,24.79
+84,Five Roses Tea 100s Bottle,Beverages,11.4,17.01
+85,Albany Brown Bread Box,Beverages,5.55,8.71
+86,Sunlight Dish Liquid 750ml Pack,Beverages,10.51,16.34
+87,Albany Brown Bread Bottle,Cleaning,16.83,25.34
+88,Nescafe Coffee 200g Bottle,Beverages,24.67,30.53
+89,Albany Brown Bread Pack,Pantry,21.12,25.82
+90,Sunlight Dish Liquid 750ml Box,Beverages,6.53,8.48
+91,Coca-Cola 500ml Pack,Snacks,6.0,7.27
+92,Five Roses Tea 100s Box,Beverages,16.52,24.31
+93,Albany Brown Bread Pack,Groceries,40.39,52.38
+94,Nescafe Coffee 200g Box,Dairy,21.8,28.0
+95,Nescafe Coffee 200g Box,Bakery,7.53,10.96
+96,Omo Washing Powder 2kg Bottle,Dairy,42.78,66.68
+97,Nestle Milo 500g Pack,Pantry,28.16,39.77
+98,Koo Baked Beans 410g Box,Cleaning,16.77,22.69
+99,Nescafe Coffee 200g Box,Bakery,11.37,15.21
+100,Sunlight Dish Liquid 750ml Box,Beverages,43.19,52.44
+101,Sunlight Dish Liquid 750ml Box,Cleaning,48.34,59.69
+102,Coca-Cola 500ml Bottle,Pantry,26.24,35.93
+103,Coca-Cola 500ml Box,Bakery,41.48,64.32
+104,Coca-Cola 500ml Pack,Bakery,10.96,14.9
+105,Coca-Cola 500ml Unit,Beverages,23.77,35.05
+106,Clover Full Cream Milk 1L Pack,Pantry,14.88,21.65
+107,Nescafe Coffee 200g Unit,Snacks,42.28,63.55
+108,Nescafe Coffee 200g Unit,Groceries,30.49,38.34
+109,Albany Brown Bread Box,Cleaning,39.09,58.05
+110,Five Roses Tea 100s Bottle,Bakery,42.08,65.56
+111,Coca-Cola 500ml Pack,Snacks,41.94,57.6
+112,Omo Washing Powder 2kg Unit,Dairy,17.65,27.23
+113,Sunlight Dish Liquid 750ml Unit,Pantry,31.9,44.97
+114,Simba Chips 120g Bottle,Groceries,18.21,28.08
+115,Albany Brown Bread Bottle,Dairy,39.54,53.1
+116,Coca-Cola 500ml Bottle,Cleaning,35.25,45.96
+117,Clover Full Cream Milk 1L Unit,Beverages,21.08,27.95
+118,Five Roses Tea 100s Bottle,Dairy,11.74,16.11
+119,Nestle Milo 500g Bottle,Beverages,6.2,8.78
+120,Nestle Milo 500g Unit,Bakery,39.73,59.45
+121,Simba Chips 120g Unit,Dairy,49.61,74.41
+122,Nescafe Coffee 200g Unit,Cleaning,24.39,29.75
+123,Koo Baked Beans 410g Box,Bakery,41.46,65.79
+124,Omo Washing Powder 2kg Box,Dairy,31.86,47.43
+125,Nestle Milo 500g Unit,Snacks,21.71,34.36
+126,Clover Full Cream Milk 1L Pack,Pantry,43.33,56.24
+127,Clover Full Cream Milk 1L Box,Dairy,9.07,13.52
+128,Albany Brown Bread Pack,Groceries,14.9,18.6
+129,Koo Baked Beans 410g Pack,Pantry,23.74,28.85
+130,Koo Baked Beans 410g Box,Snacks,6.78,8.27
+131,Nestle Milo 500g Pack,Groceries,6.97,10.67
+132,Koo Baked Beans 410g Pack,Pantry,14.58,18.57
+133,Five Roses Tea 100s Pack,Snacks,31.05,41.03
+134,Omo Washing Powder 2kg Box,Snacks,47.01,62.63
+135,Omo Washing Powder 2kg Unit,Bakery,43.26,60.85
+136,Albany Brown Bread Bottle,Beverages,16.0,20.32
+137,Five Roses Tea 100s Pack,Cleaning,17.92,28.06
+138,Coca-Cola 500ml Bottle,Pantry,27.94,34.57
+139,Clover Full Cream Milk 1L Unit,Pantry,47.58,59.59
+140,Omo Washing Powder 2kg Bottle,Cleaning,23.97,29.43
+141,Koo Baked Beans 410g Pack,Bakery,41.93,66.41
+142,Omo Washing Powder 2kg Pack,Bakery,34.55,45.36
+143,Albany Brown Bread Bottle,Cleaning,11.05,14.03
+144,Five Roses Tea 100s Bottle,Beverages,5.85,7.85
+145,Koo Baked Beans 410g Unit,Pantry,9.21,12.18
+146,Koo Baked Beans 410g Unit,Groceries,31.98,38.92
+147,Simba Chips 120g Box,Cleaning,31.46,44.96
+148,Omo Washing Powder 2kg Unit,Snacks,6.99,9.71
+149,Coca-Cola 500ml Pack,Pantry,40.78,59.23
+150,Albany Brown Bread Bottle,Groceries,8.88,12.7
+151,Sunlight Dish Liquid 750ml Pack,Cleaning,27.18,39.24
+152,Sunlight Dish Liquid 750ml Bottle,Groceries,15.23,19.46
+153,Albany Brown Bread Unit,Pantry,43.71,60.77
+154,Koo Baked Beans 410g Bottle,Bakery,43.9,53.62
+155,Sunlight Dish Liquid 750ml Pack,Beverages,17.69,25.71
+156,Coca-Cola 500ml Unit,Cleaning,36.73,48.3
+157,Clover Full Cream Milk 1L Bottle,Groceries,17.81,23.8
+158,Nescafe Coffee 200g Box,Bakery,40.83,58.58
+159,Sunlight Dish Liquid 750ml Pack,Snacks,39.01,50.42
+160,Albany Brown Bread Unit,Snacks,15.22,24.35
+161,Nestle Milo 500g Box,Beverages,29.76,45.92
+162,Nestle Milo 500g Box,Dairy,37.32,57.39
+163,Nescafe Coffee 200g Pack,Groceries,11.33,14.41
+164,Coca-Cola 500ml Box,Cleaning,5.03,6.23
+165,Nestle Milo 500g Unit,Dairy,13.68,20.93
+166,Sunlight Dish Liquid 750ml Box,Dairy,27.08,40.01
+167,Koo Baked Beans 410g Pack,Beverages,38.78,58.59
+168,Clover Full Cream Milk 1L Pack,Beverages,16.94,26.1
+169,Nestle Milo 500g Pack,Bakery,17.56,27.41
+170,Simba Chips 120g Box,Bakery,22.68,28.77
+171,Nescafe Coffee 200g Box,Cleaning,38.65,48.32
+172,Nestle Milo 500g Unit,Bakery,33.16,41.78
+173,Five Roses Tea 100s Bottle,Snacks,9.63,14.67
+174,Albany Brown Bread Unit,Pantry,11.11,13.44
+175,Simba Chips 120g Pack,Groceries,48.9,74.43
+176,Clover Full Cream Milk 1L Pack,Beverages,38.53,52.1
+177,Nescafe Coffee 200g Bottle,Cleaning,47.2,56.89
+178,Five Roses Tea 100s Pack,Pantry,24.62,36.88
+179,Albany Brown Bread Unit,Snacks,12.71,16.02
+180,Koo Baked Beans 410g Unit,Cleaning,24.87,31.13
+181,Albany Brown Bread Unit,Bakery,45.2,71.53
+182,Nestle Milo 500g Unit,Beverages,40.27,63.08
+183,Nescafe Coffee 200g Unit,Groceries,40.0,59.68
+184,Sunlight Dish Liquid 750ml Unit,Beverages,10.78,15.04
+185,Five Roses Tea 100s Pack,Groceries,5.12,6.67
+186,Omo Washing Powder 2kg Box,Bakery,25.66,40.28
+187,Five Roses Tea 100s Bottle,Dairy,22.63,28.19
+188,Nestle Milo 500g Bottle,Beverages,30.93,37.45
+189,Nestle Milo 500g Box,Beverages,47.16,59.99
+190,Nescafe Coffee 200g Pack,Pantry,19.38,30.5
+191,Albany Brown Bread Unit,Dairy,17.63,22.65
+192,Nestle Milo 500g Pack,Beverages,12.32,18.56
+193,Omo Washing Powder 2kg Bottle,Bakery,12.24,14.93
+194,Nestle Milo 500g Pack,Groceries,30.24,40.35
+195,Sunlight Dish Liquid 750ml Box,Cleaning,25.58,35.97
+196,Nescafe Coffee 200g Bottle,Bakery,21.91,34.21
+197,Albany Brown Bread Unit,Beverages,36.97,55.38
+198,Nescafe Coffee 200g Pack,Bakery,46.5,62.74
+199,Nestle Milo 500g Pack,Dairy,23.42,28.13
+200,Omo Washing Powder 2kg Box,Snacks,10.11,12.69
+201,Simba Chips 120g Unit,Pantry,24.73,33.9
+202,Clover Full Cream Milk 1L Box,Bakery,44.48,57.56
+203,Clover Full Cream Milk 1L Bottle,Groceries,40.51,50.84
+204,Albany Brown Bread Unit,Dairy,20.44,25.23
+205,Simba Chips 120g Box,Cleaning,45.43,63.87
+206,Clover Full Cream Milk 1L Pack,Beverages,38.1,48.37
+207,Koo Baked Beans 410g Box,Cleaning,22.73,33.43
+208,Five Roses Tea 100s Bottle,Bakery,22.0,26.88
+209,Sunlight Dish Liquid 750ml Unit,Cleaning,18.0,28.5
+210,Simba Chips 120g Box,Groceries,11.0,13.76
+211,Omo Washing Powder 2kg Bottle,Snacks,16.79,24.28
+212,Simba Chips 120g Unit,Cleaning,28.46,40.91
+213,Five Roses Tea 100s Unit,Beverages,5.88,8.41
+214,Albany Brown Bread Box,Bakery,30.96,40.82
+215,Nestle Milo 500g Box,Dairy,20.49,27.17
+216,Sunlight Dish Liquid 750ml Unit,Snacks,34.14,53.75
+217,Coca-Cola 500ml Pack,Dairy,40.55,55.61
+218,Five Roses Tea 100s Pack,Cleaning,40.72,53.44
+219,Five Roses Tea 100s Bottle,Groceries,38.91,56.5
+220,Koo Baked Beans 410g Box,Groceries,39.62,50.04
+221,Simba Chips 120g Bottle,Beverages,16.23,25.83
+222,Nescafe Coffee 200g Pack,Snacks,16.46,22.9
+223,Omo Washing Powder 2kg Box,Snacks,37.48,52.61
+224,Nescafe Coffee 200g Unit,Cleaning,14.67,22.17
+225,Five Roses Tea 100s Pack,Snacks,40.22,50.35
+226,Omo Washing Powder 2kg Box,Snacks,18.24,23.4
+227,Albany Brown Bread Pack,Bakery,45.56,63.52
+228,Coca-Cola 500ml Pack,Beverages,48.14,75.1
+229,Sunlight Dish Liquid 750ml Bottle,Dairy,46.76,63.72
+230,Albany Brown Bread Box,Pantry,16.4,21.76
+231,Koo Baked Beans 410g Box,Cleaning,27.47,40.24
+232,Sunlight Dish Liquid 750ml Bottle,Beverages,6.96,9.22
+233,Nestle Milo 500g Unit,Cleaning,5.39,7.65
+234,Koo Baked Beans 410g Unit,Pantry,34.62,47.42
+235,Clover Full Cream Milk 1L Box,Pantry,41.87,50.54
+236,Nescafe Coffee 200g Box,Groceries,15.25,23.32
+237,Nescafe Coffee 200g Box,Dairy,23.48,31.6
+238,Clover Full Cream Milk 1L Pack,Cleaning,43.17,62.45
+239,Albany Brown Bread Bottle,Groceries,11.5,16.54
+240,Albany Brown Bread Unit,Beverages,43.18,60.93
+241,Coca-Cola 500ml Bottle,Bakery,10.26,13.49
+242,Coca-Cola 500ml Bottle,Groceries,35.29,46.33
+243,Coca-Cola 500ml Box,Beverages,13.87,19.84
+244,Nescafe Coffee 200g Pack,Dairy,47.36,75.32
+245,Five Roses Tea 100s Box,Pantry,48.26,62.76
+246,Albany Brown Bread Unit,Beverages,10.55,13.64
+247,Omo Washing Powder 2kg Bottle,Snacks,25.93,32.61
+248,Coca-Cola 500ml Box,Dairy,17.36,24.78
+249,Coca-Cola 500ml Pack,Snacks,44.0,69.17
+250,Nestle Milo 500g Bottle,Snacks,22.31,34.4
+251,Nescafe Coffee 200g Box,Pantry,40.0,56.67
+252,Koo Baked Beans 410g Bottle,Bakery,41.18,53.47
+253,Nestle Milo 500g Bottle,Bakery,11.72,18.11
+254,Five Roses Tea 100s Pack,Snacks,41.12,58.24
+255,Nestle Milo 500g Bottle,Pantry,7.66,9.26
+256,Koo Baked Beans 410g Bottle,Cleaning,23.72,31.62
+257,Nescafe Coffee 200g Bottle,Groceries,45.27,56.14
+258,Simba Chips 120g Bottle,Cleaning,12.46,18.88
+259,Albany Brown Bread Bottle,Cleaning,26.78,42.36
+260,Simba Chips 120g Bottle,Snacks,44.99,56.44
+261,Nescafe Coffee 200g Unit,Bakery,17.06,23.44
+262,Nescafe Coffee 200g Box,Snacks,43.98,69.01
+263,Clover Full Cream Milk 1L Unit,Pantry,25.79,38.85
+264,Simba Chips 120g Bottle,Dairy,8.75,12.11
+265,Sunlight Dish Liquid 750ml Box,Groceries,26.21,32.04
+266,Coca-Cola 500ml Unit,Beverages,5.83,7.59
+267,Simba Chips 120g Unit,Dairy,46.96,65.96
+268,Albany Brown Bread Unit,Bakery,35.31,46.36
+269,Albany Brown Bread Unit,Snacks,49.12,61.35
+270,Clover Full Cream Milk 1L Pack,Groceries,43.53,60.01
+271,Five Roses Tea 100s Box,Snacks,8.72,13.66
+272,Nescafe Coffee 200g Unit,Dairy,32.39,39.95
+273,Albany Brown Bread Bottle,Cleaning,12.47,15.58
+274,Nestle Milo 500g Unit,Bakery,34.71,47.99
+275,Nescafe Coffee 200g Pack,Dairy,41.0,52.54
+276,Simba Chips 120g Unit,Bakery,40.95,55.27
+277,Koo Baked Beans 410g Unit,Snacks,45.89,57.32
+278,Omo Washing Powder 2kg Bottle,Pantry,30.59,41.36
+279,Simba Chips 120g Pack,Snacks,22.96,34.12
+280,Sunlight Dish Liquid 750ml Box,Snacks,13.08,16.23
+281,Albany Brown Bread Unit,Groceries,22.68,31.46
+282,Koo Baked Beans 410g Pack,Beverages,24.48,33.01
+283,Sunlight Dish Liquid 750ml Pack,Groceries,9.97,14.47
+284,Omo Washing Powder 2kg Unit,Dairy,8.11,12.46
+285,Nescafe Coffee 200g Unit,Groceries,31.72,48.28
+286,Nestle Milo 500g Bottle,Beverages,21.66,26.52
+287,Five Roses Tea 100s Bottle,Pantry,13.18,18.61
+288,Simba Chips 120g Bottle,Snacks,12.51,18.95
+289,Omo Washing Powder 2kg Unit,Bakery,31.59,38.38
+290,Coca-Cola 500ml Bottle,Bakery,43.52,62.22
+291,Clover Full Cream Milk 1L Pack,Pantry,40.75,64.49
+292,Clover Full Cream Milk 1L Box,Groceries,19.54,25.98
+293,Koo Baked Beans 410g Pack,Pantry,36.4,46.79
+294,Omo Washing Powder 2kg Box,Snacks,25.9,40.41
+295,Nestle Milo 500g Unit,Dairy,27.59,33.8
+296,Nestle Milo 500g Bottle,Groceries,49.31,74.0
+297,Sunlight Dish Liquid 750ml Pack,Pantry,28.04,39.72
+298,Simba Chips 120g Pack,Beverages,41.18,57.53
+299,Five Roses Tea 100s Box,Cleaning,31.04,41.73
+300,Koo Baked Beans 410g Box,Beverages,21.75,28.63
+301,Clover Full Cream Milk 1L Box,Groceries,47.28,59.44
+302,Coca-Cola 500ml Box,Bakery,40.91,51.09
+303,Simba Chips 120g Unit,Bakery,47.42,64.59
+304,Coca-Cola 500ml Unit,Bakery,22.88,31.24
+305,Simba Chips 120g Pack,Beverages,22.9,30.75
+306,Simba Chips 120g Unit,Groceries,43.46,58.06
+307,Nescafe Coffee 200g Pack,Bakery,35.59,52.63
+308,Nestle Milo 500g Bottle,Beverages,34.79,42.1
+309,Sunlight Dish Liquid 750ml Pack,Groceries,44.59,68.3
+310,Coca-Cola 500ml Box,Cleaning,9.6,11.94
+311,Clover Full Cream Milk 1L Pack,Bakery,26.39,34.3
+312,Omo Washing Powder 2kg Unit,Pantry,46.73,73.82
+313,Albany Brown Bread Bottle,Cleaning,40.19,54.73
+314,Nescafe Coffee 200g Bottle,Bakery,41.47,49.88
+315,Nestle Milo 500g Box,Cleaning,18.4,25.99
+316,Nestle Milo 500g Box,Dairy,48.8,63.94
+317,Clover Full Cream Milk 1L Unit,Bakery,12.92,16.79
+318,Nestle Milo 500g Box,Groceries,46.02,71.12
+319,Clover Full Cream Milk 1L Bottle,Snacks,5.23,8.35
+320,Five Roses Tea 100s Unit,Cleaning,9.44,13.17
+321,Koo Baked Beans 410g Unit,Beverages,38.7,58.52
+322,Koo Baked Beans 410g Bottle,Dairy,43.57,60.53
+323,Five Roses Tea 100s Unit,Dairy,33.09,43.76
+324,Sunlight Dish Liquid 750ml Bottle,Snacks,18.18,22.48
+325,Five Roses Tea 100s Pack,Snacks,22.96,34.55
+326,Nescafe Coffee 200g Bottle,Snacks,29.13,46.53
+327,Five Roses Tea 100s Bottle,Cleaning,45.01,62.3
+328,Coca-Cola 500ml Box,Pantry,15.83,23.46
+329,Sunlight Dish Liquid 750ml Pack,Cleaning,33.85,52.36
+330,Nescafe Coffee 200g Pack,Cleaning,31.12,42.78
+331,Nescafe Coffee 200g Pack,Snacks,32.53,42.98
+332,Omo Washing Powder 2kg Pack,Groceries,37.69,54.21
+333,Sunlight Dish Liquid 750ml Unit,Beverages,14.04,18.09
+334,Nestle Milo 500g Pack,Groceries,32.4,51.15
+335,Simba Chips 120g Bottle,Beverages,41.5,61.64
+336,Sunlight Dish Liquid 750ml Bottle,Groceries,49.01,76.88
+337,Sunlight Dish Liquid 750ml Unit,Groceries,46.42,56.53
+338,Coca-Cola 500ml Bottle,Beverages,47.2,59.63
+339,Koo Baked Beans 410g Unit,Groceries,36.27,48.46
+340,Sunlight Dish Liquid 750ml Unit,Beverages,22.4,31.66
+341,Sunlight Dish Liquid 750ml Unit,Beverages,43.19,67.32
+342,Albany Brown Bread Pack,Snacks,31.26,41.52
+343,Nestle Milo 500g Bottle,Groceries,11.27,14.95
+344,Koo Baked Beans 410g Bottle,Bakery,32.67,46.57
+345,Koo Baked Beans 410g Box,Bakery,8.88,11.61
+346,Nestle Milo 500g Pack,Cleaning,47.54,73.68
+347,Clover Full Cream Milk 1L Unit,Cleaning,15.52,20.79
+348,Sunlight Dish Liquid 750ml Pack,Pantry,15.11,23.68
+349,Clover Full Cream Milk 1L Box,Bakery,46.76,56.34
+350,Simba Chips 120g Unit,Beverages,25.14,38.39
+351,Coca-Cola 500ml Unit,Pantry,24.4,37.02
+352,Omo Washing Powder 2kg Bottle,Dairy,37.31,56.48
+353,Five Roses Tea 100s Unit,Cleaning,33.68,52.02
+354,Nescafe Coffee 200g Bottle,Bakery,30.86,44.32
+355,Albany Brown Bread Pack,Dairy,40.9,58.86
+356,Simba Chips 120g Bottle,Cleaning,33.67,52.51
+357,Koo Baked Beans 410g Box,Dairy,48.74,68.11
+358,Koo Baked Beans 410g Bottle,Snacks,11.93,18.99
+359,Simba Chips 120g Unit,Dairy,14.06,18.43
+360,Koo Baked Beans 410g Box,Beverages,19.2,30.27
+361,Clover Full Cream Milk 1L Pack,Snacks,39.58,55.65
+362,Omo Washing Powder 2kg Bottle,Groceries,18.72,24.54
+363,Nescafe Coffee 200g Pack,Dairy,18.04,27.61
+364,Nescafe Coffee 200g Box,Groceries,19.07,29.61
+365,Simba Chips 120g Pack,Cleaning,15.85,19.4
+366,Nestle Milo 500g Unit,Beverages,33.02,51.36
+367,Clover Full Cream Milk 1L Unit,Beverages,17.84,24.74
+368,Five Roses Tea 100s Box,Snacks,43.19,55.26
+369,Clover Full Cream Milk 1L Box,Dairy,13.35,17.21
+370,Five Roses Tea 100s Unit,Pantry,8.92,11.85
+371,Five Roses Tea 100s Bottle,Pantry,5.54,8.01
+372,Sunlight Dish Liquid 750ml Bottle,Snacks,35.25,51.34
+373,Omo Washing Powder 2kg Pack,Groceries,26.73,36.33
+374,Five Roses Tea 100s Unit,Bakery,9.44,13.7
+375,Five Roses Tea 100s Bottle,Snacks,16.29,24.58
+376,Koo Baked Beans 410g Unit,Bakery,27.21,42.39
+377,Simba Chips 120g Unit,Cleaning,14.29,21.49
+378,Omo Washing Powder 2kg Pack,Beverages,46.11,64.06
+379,Five Roses Tea 100s Pack,Groceries,30.57,37.41
+380,Coca-Cola 500ml Unit,Dairy,13.84,20.9
+381,Coca-Cola 500ml Bottle,Bakery,38.65,58.62
+382,Sunlight Dish Liquid 750ml Unit,Groceries,36.12,57.57
+383,Albany Brown Bread Bottle,Dairy,40.06,49.78
+384,Five Roses Tea 100s Pack,Dairy,14.49,17.54
+385,Omo Washing Powder 2kg Unit,Dairy,43.52,67.13
+386,Five Roses Tea 100s Box,Snacks,16.76,24.71
+387,Nestle Milo 500g Bottle,Bakery,13.27,16.31
+388,Albany Brown Bread Bottle,Cleaning,27.06,41.09
+389,Coca-Cola 500ml Bottle,Snacks,44.63,58.92
+390,Five Roses Tea 100s Pack,Cleaning,24.15,37.4
+391,Five Roses Tea 100s Pack,Beverages,17.62,26.78
+392,Five Roses Tea 100s Unit,Snacks,5.43,6.69
+393,Nestle Milo 500g Pack,Groceries,12.05,16.42
+394,Coca-Cola 500ml Pack,Bakery,7.23,9.66
+395,Five Roses Tea 100s Bottle,Bakery,43.54,54.83
+396,Koo Baked Beans 410g Box,Beverages,40.11,53.62
+397,Nestle Milo 500g Bottle,Dairy,20.68,25.85
+398,Coca-Cola 500ml Bottle,Cleaning,27.75,41.1
+399,Coca-Cola 500ml Pack,Cleaning,17.83,25.03
+400,Five Roses Tea 100s Box,Cleaning,48.2,73.28
+401,Simba Chips 120g Bottle,Dairy,32.83,41.54
+402,Clover Full Cream Milk 1L Box,Beverages,29.29,36.53
+403,Five Roses Tea 100s Box,Dairy,30.55,40.71
+404,Koo Baked Beans 410g Pack,Pantry,28.28,36.1
+405,Koo Baked Beans 410g Box,Groceries,8.86,13.21
+406,Coca-Cola 500ml Unit,Beverages,11.17,13.53
+407,Simba Chips 120g Box,Groceries,10.91,13.96
+408,Five Roses Tea 100s Bottle,Groceries,32.01,50.73
+409,Albany Brown Bread Unit,Bakery,31.35,38.74
+410,Nescafe Coffee 200g Unit,Cleaning,35.34,56.51
+411,Omo Washing Powder 2kg Box,Bakery,33.53,41.69
+412,Nescafe Coffee 200g Pack,Beverages,49.53,68.03
+413,Sunlight Dish Liquid 750ml Bottle,Snacks,15.99,20.71
+414,Five Roses Tea 100s Box,Bakery,27.88,34.3
+415,Omo Washing Powder 2kg Bottle,Cleaning,49.86,65.24
+416,Omo Washing Powder 2kg Unit,Dairy,33.76,45.67
+417,Five Roses Tea 100s Box,Beverages,8.63,10.84
+418,Sunlight Dish Liquid 750ml Box,Bakery,42.36,54.65
+419,Clover Full Cream Milk 1L Box,Dairy,14.6,21.54
+420,Albany Brown Bread Pack,Pantry,43.78,57.87
+421,Albany Brown Bread Unit,Bakery,35.5,42.76
+422,Five Roses Tea 100s Pack,Dairy,11.93,14.95
+423,Clover Full Cream Milk 1L Unit,Dairy,35.31,43.86
+424,Simba Chips 120g Bottle,Cleaning,40.61,61.13
+425,Omo Washing Powder 2kg Pack,Pantry,25.61,32.92
+426,Nestle Milo 500g Bottle,Cleaning,35.95,50.07
+427,Simba Chips 120g Unit,Dairy,8.13,10.18
+428,Nescafe Coffee 200g Unit,Groceries,41.71,50.05
+429,Sunlight Dish Liquid 750ml Bottle,Snacks,12.73,18.24
+430,Nescafe Coffee 200g Unit,Dairy,38.05,45.69
+431,Koo Baked Beans 410g Unit,Cleaning,7.4,11.3
+432,Koo Baked Beans 410g Unit,Dairy,37.14,48.65
+433,Omo Washing Powder 2kg Unit,Dairy,45.24,69.17
+434,Nescafe Coffee 200g Box,Beverages,41.41,63.69
+435,Nestle Milo 500g Unit,Snacks,24.64,37.67
+436,Clover Full Cream Milk 1L Pack,Cleaning,32.22,51.25
+437,Omo Washing Powder 2kg Box,Bakery,16.98,22.0
+438,Sunlight Dish Liquid 750ml Box,Cleaning,20.24,27.28
+439,Coca-Cola 500ml Bottle,Snacks,14.51,18.5
+440,Simba Chips 120g Bottle,Dairy,34.73,54.7
+441,Nescafe Coffee 200g Box,Groceries,46.46,56.21
+442,Clover Full Cream Milk 1L Bottle,Groceries,8.16,12.51
+443,Nestle Milo 500g Pack,Groceries,48.85,75.92
+444,Albany Brown Bread Bottle,Pantry,38.35,56.07
+445,Albany Brown Bread Box,Cleaning,43.5,58.98
+446,Simba Chips 120g Box,Pantry,10.21,12.77
+447,Sunlight Dish Liquid 750ml Pack,Dairy,45.87,58.75
+448,Simba Chips 120g Bottle,Pantry,19.2,28.09
+449,Omo Washing Powder 2kg Box,Snacks,42.38,51.55
+450,Nescafe Coffee 200g Box,Beverages,14.16,19.23
+451,Albany Brown Bread Box,Snacks,12.76,16.35
+452,Koo Baked Beans 410g Unit,Snacks,47.27,59.77
+453,Nescafe Coffee 200g Bottle,Pantry,36.13,48.65
+454,Coca-Cola 500ml Box,Pantry,7.23,9.6
+455,Coca-Cola 500ml Unit,Pantry,19.05,24.95
+456,Coca-Cola 500ml Pack,Bakery,23.24,27.9
+457,Nescafe Coffee 200g Unit,Beverages,26.29,33.67
+458,Five Roses Tea 100s Bottle,Beverages,12.55,19.7
+459,Clover Full Cream Milk 1L Box,Cleaning,6.48,9.84
+460,Omo Washing Powder 2kg Unit,Pantry,30.43,48.56
+461,Nestle Milo 500g Bottle,Pantry,40.37,51.32
+462,Sunlight Dish Liquid 750ml Bottle,Groceries,7.05,9.4
+463,Clover Full Cream Milk 1L Pack,Snacks,46.54,70.95
+464,Clover Full Cream Milk 1L Bottle,Groceries,34.91,44.47
+465,Omo Washing Powder 2kg Box,Dairy,28.37,40.03
+466,Albany Brown Bread Bottle,Beverages,5.08,7.57
+467,Nescafe Coffee 200g Box,Dairy,28.36,40.64
+468,Simba Chips 120g Bottle,Pantry,41.84,58.53
+469,Sunlight Dish Liquid 750ml Box,Bakery,38.61,53.84
+470,Albany Brown Bread Box,Cleaning,24.66,35.92
+471,Five Roses Tea 100s Box,Bakery,49.45,72.22
+472,Nescafe Coffee 200g Box,Snacks,31.62,43.71
+473,Omo Washing Powder 2kg Pack,Pantry,46.45,65.79
+474,Clover Full Cream Milk 1L Bottle,Cleaning,39.49,63.0
+475,Nestle Milo 500g Pack,Beverages,21.45,30.04
+476,Nestle Milo 500g Pack,Beverages,47.39,73.14
+477,Omo Washing Powder 2kg Pack,Groceries,38.77,57.44
+478,Clover Full Cream Milk 1L Pack,Dairy,7.5,9.5
+479,Koo Baked Beans 410g Bottle,Pantry,47.5,63.42
+480,Albany Brown Bread Box,Beverages,33.19,43.11
+481,Nescafe Coffee 200g Unit,Snacks,43.91,67.44
+482,Koo Baked Beans 410g Unit,Groceries,18.0,22.92
+483,Simba Chips 120g Bottle,Beverages,12.04,14.93
+484,Five Roses Tea 100s Pack,Beverages,18.59,26.91
+485,Omo Washing Powder 2kg Box,Pantry,35.14,51.58
+486,Nescafe Coffee 200g Pack,Groceries,18.81,26.55
+487,Omo Washing Powder 2kg Pack,Cleaning,13.97,17.56
+488,Omo Washing Powder 2kg Pack,Cleaning,40.48,58.04
+489,Koo Baked Beans 410g Box,Cleaning,39.81,54.99
+490,Five Roses Tea 100s Bottle,Groceries,43.11,64.94
+491,Clover Full Cream Milk 1L Unit,Cleaning,17.71,27.5
+492,Koo Baked Beans 410g Unit,Beverages,6.08,9.56
+493,Omo Washing Powder 2kg Pack,Dairy,48.1,73.12
+494,Koo Baked Beans 410g Pack,Pantry,12.29,18.0
+495,Coca-Cola 500ml Box,Pantry,35.28,51.39
+496,Clover Full Cream Milk 1L Pack,Cleaning,33.43,46.09
+497,Koo Baked Beans 410g Pack,Snacks,17.66,27.83
+498,Nestle Milo 500g Pack,Pantry,37.11,57.09
+499,Clover Full Cream Milk 1L Unit,Groceries,22.53,28.67
+500,Clover Full Cream Milk 1L Unit,Dairy,23.84,32.01
+501,Five Roses Tea 100s Box,Cleaning,13.8,19.14
+502,Omo Washing Powder 2kg Box,Dairy,25.66,33.15
+503,Koo Baked Beans 410g Pack,Beverages,14.04,22.32
+504,Nestle Milo 500g Box,Pantry,11.38,15.59
+505,Nescafe Coffee 200g Bottle,Pantry,13.07,20.15
+506,Omo Washing Powder 2kg Box,Snacks,22.93,36.36
+507,Clover Full Cream Milk 1L Unit,Beverages,27.93,34.12
+508,Koo Baked Beans 410g Unit,Pantry,12.53,15.95
+509,Clover Full Cream Milk 1L Box,Groceries,21.59,31.7
+510,Coca-Cola 500ml Unit,Bakery,31.96,48.28
+511,Clover Full Cream Milk 1L Box,Groceries,35.57,45.24
+512,Five Roses Tea 100s Unit,Cleaning,28.5,45.35
+513,Sunlight Dish Liquid 750ml Box,Snacks,47.54,66.25
+514,Sunlight Dish Liquid 750ml Box,Beverages,23.36,37.13
+515,Five Roses Tea 100s Box,Groceries,36.78,56.15
+516,Nestle Milo 500g Bottle,Dairy,5.94,8.16
+517,Five Roses Tea 100s Unit,Snacks,15.35,22.71
+518,Clover Full Cream Milk 1L Box,Snacks,36.39,57.87
+519,Omo Washing Powder 2kg Box,Groceries,26.0,36.85
+520,Nescafe Coffee 200g Box,Snacks,45.47,69.26
+521,Albany Brown Bread Box,Beverages,27.18,34.59
+522,Five Roses Tea 100s Box,Groceries,6.69,8.3
+523,Omo Washing Powder 2kg Pack,Beverages,44.9,71.09
+524,Clover Full Cream Milk 1L Box,Groceries,7.71,9.32
+525,Omo Washing Powder 2kg Bottle,Beverages,43.2,59.25
+526,Clover Full Cream Milk 1L Pack,Cleaning,26.95,34.33
+527,Coca-Cola 500ml Box,Cleaning,34.91,48.29
+528,Sunlight Dish Liquid 750ml Bottle,Bakery,20.63,27.06
+529,Koo Baked Beans 410g Bottle,Dairy,12.42,18.87
+530,Sunlight Dish Liquid 750ml Bottle,Snacks,29.9,39.63
+531,Koo Baked Beans 410g Bottle,Beverages,32.49,39.11
+532,Koo Baked Beans 410g Pack,Pantry,49.81,64.72
+533,Five Roses Tea 100s Box,Bakery,30.76,46.33
+534,Nestle Milo 500g Pack,Beverages,31.65,39.94
+535,Coca-Cola 500ml Bottle,Dairy,23.9,29.15
+536,Simba Chips 120g Bottle,Bakery,37.3,53.03
+537,Nestle Milo 500g Unit,Pantry,42.91,66.32
+538,Nescafe Coffee 200g Pack,Bakery,22.74,34.2
+539,Omo Washing Powder 2kg Bottle,Groceries,26.22,33.56
+540,Sunlight Dish Liquid 750ml Box,Bakery,7.78,9.37
+541,Nescafe Coffee 200g Bottle,Groceries,15.31,20.75
+542,Nescafe Coffee 200g Box,Dairy,47.96,58.64
+543,Nestle Milo 500g Unit,Bakery,45.42,56.03
+544,Omo Washing Powder 2kg Box,Bakery,43.1,60.52
+545,Koo Baked Beans 410g Bottle,Cleaning,38.13,52.81
+546,Simba Chips 120g Bottle,Groceries,34.06,49.23
+547,Koo Baked Beans 410g Box,Snacks,41.65,54.23
+548,Sunlight Dish Liquid 750ml Box,Dairy,47.3,68.65
+549,Simba Chips 120g Pack,Groceries,17.82,23.62
+550,Omo Washing Powder 2kg Unit,Bakery,16.04,23.36
+551,Coca-Cola 500ml Bottle,Bakery,18.01,24.59
+552,Sunlight Dish Liquid 750ml Box,Cleaning,11.14,17.42
+553,Nestle Milo 500g Unit,Cleaning,21.58,28.86
+554,Sunlight Dish Liquid 750ml Bottle,Cleaning,49.15,76.69
+555,Omo Washing Powder 2kg Bottle,Groceries,24.95,38.87
+556,Nestle Milo 500g Bottle,Dairy,49.88,78.4
+557,Nescafe Coffee 200g Pack,Bakery,31.37,48.4
+558,Nestle Milo 500g Unit,Snacks,16.42,21.85
+559,Sunlight Dish Liquid 750ml Box,Beverages,49.2,65.45
+560,Nescafe Coffee 200g Pack,Dairy,33.01,48.74
+561,Koo Baked Beans 410g Unit,Beverages,11.33,16.56
+562,Sunlight Dish Liquid 750ml Pack,Dairy,48.25,61.6
+563,Nescafe Coffee 200g Unit,Groceries,49.77,73.88
+564,Omo Washing Powder 2kg Box,Pantry,46.55,62.19
+565,Omo Washing Powder 2kg Box,Dairy,33.33,47.32
+566,Simba Chips 120g Unit,Beverages,12.55,17.92
+567,Simba Chips 120g Unit,Snacks,45.12,54.38
+568,Clover Full Cream Milk 1L Box,Cleaning,47.49,75.36
+569,Nescafe Coffee 200g Box,Beverages,38.92,50.6
+570,Clover Full Cream Milk 1L Unit,Pantry,29.62,41.14
+571,Omo Washing Powder 2kg Unit,Pantry,19.36,28.96
+572,Nestle Milo 500g Bottle,Pantry,19.27,26.87
+573,Simba Chips 120g Bottle,Groceries,31.57,45.07
+574,Koo Baked Beans 410g Box,Snacks,19.63,30.94
+575,Sunlight Dish Liquid 750ml Box,Beverages,29.93,47.14
+576,Sunlight Dish Liquid 750ml Box,Beverages,40.58,49.13
+577,Nescafe Coffee 200g Pack,Pantry,31.58,38.33
+578,Coca-Cola 500ml Unit,Beverages,40.26,60.84
+579,Omo Washing Powder 2kg Bottle,Bakery,13.92,20.01
+580,Simba Chips 120g Pack,Cleaning,14.8,23.43
+581,Albany Brown Bread Unit,Beverages,25.96,35.47
+582,Albany Brown Bread Box,Groceries,42.22,58.57
+583,Clover Full Cream Milk 1L Bottle,Groceries,24.26,33.37
+584,Omo Washing Powder 2kg Pack,Dairy,48.75,75.23
+585,Five Roses Tea 100s Bottle,Pantry,24.17,29.83
+586,Nestle Milo 500g Bottle,Pantry,40.51,58.42
+587,Simba Chips 120g Box,Cleaning,20.02,30.22
+588,Koo Baked Beans 410g Box,Dairy,14.04,17.9
+589,Koo Baked Beans 410g Box,Beverages,45.95,72.26
+590,Coca-Cola 500ml Box,Beverages,38.8,61.83
+591,Sunlight Dish Liquid 750ml Bottle,Snacks,46.53,74.4
+592,Coca-Cola 500ml Box,Groceries,28.7,35.82
+593,Simba Chips 120g Unit,Pantry,16.28,20.77
+594,Koo Baked Beans 410g Box,Snacks,10.43,14.81
+595,Nestle Milo 500g Pack,Dairy,47.33,67.64
+596,Sunlight Dish Liquid 750ml Pack,Cleaning,42.76,66.68
+597,Koo Baked Beans 410g Unit,Groceries,22.51,35.05
+598,Nestle Milo 500g Pack,Groceries,27.04,32.66
+599,Albany Brown Bread Unit,Bakery,27.53,36.64
+600,Coca-Cola 500ml Pack,Snacks,43.73,67.69
+601,Albany Brown Bread Box,Beverages,41.25,55.73
+602,Albany Brown Bread Unit,Beverages,17.58,22.03
+603,Nescafe Coffee 200g Bottle,Bakery,45.32,66.44
+604,Koo Baked Beans 410g Pack,Bakery,13.55,16.91
+605,Omo Washing Powder 2kg Bottle,Snacks,20.16,24.99
+606,Clover Full Cream Milk 1L Bottle,Snacks,30.24,40.0
+607,Omo Washing Powder 2kg Unit,Bakery,9.55,12.72
+608,Omo Washing Powder 2kg Pack,Snacks,47.22,69.64
+609,Albany Brown Bread Unit,Beverages,40.02,59.49
+610,Nestle Milo 500g Box,Groceries,47.84,64.74
+611,Coca-Cola 500ml Box,Beverages,6.72,9.54
+612,Coca-Cola 500ml Box,Snacks,41.49,58.51
+613,Koo Baked Beans 410g Unit,Beverages,12.74,17.87
+614,Omo Washing Powder 2kg Box,Bakery,47.42,58.33
+615,Nestle Milo 500g Box,Cleaning,44.74,71.22
+616,Omo Washing Powder 2kg Pack,Dairy,7.14,9.44
+617,Five Roses Tea 100s Box,Snacks,33.03,50.67
+618,Clover Full Cream Milk 1L Bottle,Bakery,27.96,41.16
+619,Sunlight Dish Liquid 750ml Box,Bakery,13.81,19.96
+620,Omo Washing Powder 2kg Bottle,Groceries,21.34,28.98
+621,Albany Brown Bread Bottle,Pantry,13.83,18.65
+622,Clover Full Cream Milk 1L Pack,Snacks,21.93,31.55
+623,Clover Full Cream Milk 1L Unit,Beverages,12.03,18.16
+624,Koo Baked Beans 410g Box,Beverages,21.45,28.93
+625,Albany Brown Bread Box,Groceries,24.7,35.65
+626,Nescafe Coffee 200g Pack,Dairy,10.89,16.08
+627,Nescafe Coffee 200g Pack,Groceries,39.29,59.96
+628,Coca-Cola 500ml Bottle,Snacks,38.1,57.96
+629,Simba Chips 120g Box,Snacks,36.36,57.87
+630,Sunlight Dish Liquid 750ml Unit,Snacks,36.16,46.13
+631,Simba Chips 120g Unit,Groceries,45.56,71.62
+632,Simba Chips 120g Bottle,Bakery,18.44,27.0
+633,Omo Washing Powder 2kg Unit,Bakery,10.64,12.8
+634,Clover Full Cream Milk 1L Box,Bakery,38.69,53.99
+635,Nestle Milo 500g Box,Beverages,19.14,26.12
+636,Nescafe Coffee 200g Unit,Bakery,10.26,14.03
+637,Albany Brown Bread Pack,Bakery,17.78,26.62
+638,Sunlight Dish Liquid 750ml Bottle,Snacks,16.88,21.21
+639,Nestle Milo 500g Bottle,Groceries,5.59,8.83
+640,Coca-Cola 500ml Pack,Pantry,38.23,48.08
+641,Clover Full Cream Milk 1L Box,Dairy,34.34,53.54
+642,Coca-Cola 500ml Unit,Snacks,13.09,16.25
+643,Coca-Cola 500ml Pack,Beverages,14.78,23.16
+644,Nestle Milo 500g Box,Groceries,49.24,61.43
+645,Koo Baked Beans 410g Box,Groceries,32.1,47.22
+646,Nestle Milo 500g Pack,Dairy,39.73,60.32
+647,Omo Washing Powder 2kg Box,Groceries,23.13,30.78
+648,Nestle Milo 500g Bottle,Beverages,35.45,56.55
+649,Albany Brown Bread Pack,Dairy,41.68,64.71
+650,Five Roses Tea 100s Box,Groceries,18.68,25.93
+651,Albany Brown Bread Bottle,Cleaning,6.88,10.64
+652,Clover Full Cream Milk 1L Box,Dairy,25.59,36.52
+653,Albany Brown Bread Bottle,Snacks,32.92,52.47
+654,Omo Washing Powder 2kg Box,Bakery,47.13,73.78
+655,Coca-Cola 500ml Pack,Groceries,23.74,35.35
+656,Sunlight Dish Liquid 750ml Box,Snacks,34.22,47.12
+657,Coca-Cola 500ml Pack,Cleaning,23.78,32.96
+658,Simba Chips 120g Unit,Dairy,29.95,36.11
+659,Nestle Milo 500g Box,Bakery,39.01,60.63
+660,Omo Washing Powder 2kg Bottle,Beverages,19.72,30.35
+661,Nestle Milo 500g Pack,Groceries,30.43,44.02
+662,Clover Full Cream Milk 1L Bottle,Groceries,23.25,32.51
+663,Omo Washing Powder 2kg Unit,Cleaning,6.81,8.93
+664,Sunlight Dish Liquid 750ml Unit,Cleaning,26.69,40.47
+665,Koo Baked Beans 410g Pack,Snacks,27.31,39.95
+666,Sunlight Dish Liquid 750ml Pack,Beverages,44.39,58.2
+667,Clover Full Cream Milk 1L Pack,Cleaning,9.64,15.13
+668,Sunlight Dish Liquid 750ml Pack,Groceries,42.96,60.44
+669,Nescafe Coffee 200g Box,Bakery,48.77,65.85
+670,Koo Baked Beans 410g Unit,Cleaning,45.61,66.36
+671,Simba Chips 120g Bottle,Groceries,18.78,29.17
+672,Albany Brown Bread Bottle,Beverages,37.43,56.71
+673,Five Roses Tea 100s Bottle,Bakery,47.56,69.52
+674,Koo Baked Beans 410g Pack,Groceries,44.61,63.13
+675,Sunlight Dish Liquid 750ml Unit,Dairy,47.08,63.91
+676,Omo Washing Powder 2kg Unit,Snacks,47.73,66.83
+677,Nescafe Coffee 200g Box,Bakery,6.73,9.71
+678,Koo Baked Beans 410g Bottle,Beverages,19.5,28.79
+679,Koo Baked Beans 410g Box,Dairy,34.2,53.26
+680,Coca-Cola 500ml Unit,Groceries,10.01,12.99
+681,Nestle Milo 500g Box,Cleaning,46.98,61.45
+682,Koo Baked Beans 410g Bottle,Snacks,10.62,14.74
+683,Clover Full Cream Milk 1L Unit,Beverages,29.15,37.35
+684,Five Roses Tea 100s Pack,Dairy,30.2,36.29
+685,Five Roses Tea 100s Box,Pantry,14.77,19.47
+686,Sunlight Dish Liquid 750ml Unit,Groceries,41.19,55.45
+687,Omo Washing Powder 2kg Bottle,Beverages,18.59,28.8
+688,Nescafe Coffee 200g Box,Beverages,17.29,21.05
+689,Nestle Milo 500g Pack,Cleaning,34.79,45.33
+690,Sunlight Dish Liquid 750ml Box,Dairy,17.96,25.28
+691,Simba Chips 120g Unit,Snacks,21.03,26.3
+692,Nescafe Coffee 200g Box,Beverages,25.73,31.85
+693,Sunlight Dish Liquid 750ml Box,Cleaning,48.67,77.54
+694,Clover Full Cream Milk 1L Unit,Pantry,42.39,62.48
+695,Omo Washing Powder 2kg Box,Dairy,15.35,23.01
+696,Simba Chips 120g Box,Groceries,11.96,18.34
+697,Simba Chips 120g Pack,Beverages,6.82,10.76
+698,Sunlight Dish Liquid 750ml Bottle,Snacks,15.58,18.73
+699,Five Roses Tea 100s Bottle,Pantry,24.51,30.44
+700,Nestle Milo 500g Pack,Groceries,47.48,71.62
+701,Omo Washing Powder 2kg Bottle,Bakery,26.91,40.56
+702,Simba Chips 120g Unit,Bakery,25.98,35.38
+703,Nestle Milo 500g Box,Cleaning,46.82,70.86
+704,Coca-Cola 500ml Pack,Cleaning,24.19,29.75
+705,Coca-Cola 500ml Bottle,Bakery,18.58,24.98
+706,Omo Washing Powder 2kg Box,Beverages,33.63,45.5
+707,Coca-Cola 500ml Box,Cleaning,16.5,21.35
+708,Sunlight Dish Liquid 750ml Pack,Pantry,15.28,18.47
+709,Coca-Cola 500ml Unit,Cleaning,35.98,49.12
+710,Sunlight Dish Liquid 750ml Pack,Bakery,20.78,28.8
+711,Coca-Cola 500ml Bottle,Cleaning,40.77,52.68
+712,Omo Washing Powder 2kg Bottle,Groceries,24.85,30.63
+713,Clover Full Cream Milk 1L Bottle,Cleaning,33.42,43.0
+714,Koo Baked Beans 410g Pack,Snacks,37.97,45.57
+715,Sunlight Dish Liquid 750ml Pack,Dairy,47.5,58.85
+716,Clover Full Cream Milk 1L Pack,Beverages,41.86,51.29
+717,Coca-Cola 500ml Box,Beverages,19.93,24.42
+718,Nestle Milo 500g Bottle,Pantry,9.86,13.73
+719,Nestle Milo 500g Pack,Beverages,47.76,60.82
+720,Sunlight Dish Liquid 750ml Unit,Snacks,13.3,16.41
+721,Simba Chips 120g Unit,Beverages,16.65,21.11
+722,Omo Washing Powder 2kg Box,Bakery,18.34,24.5
+723,Coca-Cola 500ml Unit,Snacks,21.74,32.7
+724,Nestle Milo 500g Unit,Groceries,16.72,25.19
+725,Nescafe Coffee 200g Box,Groceries,22.19,27.33
+726,Nescafe Coffee 200g Pack,Groceries,49.77,60.76
+727,Five Roses Tea 100s Bottle,Dairy,43.66,55.37
+728,Five Roses Tea 100s Bottle,Cleaning,17.84,25.55
+729,Albany Brown Bread Box,Dairy,5.26,6.47
+730,Koo Baked Beans 410g Bottle,Cleaning,36.91,52.65
+731,Nescafe Coffee 200g Box,Groceries,42.5,65.6
+732,Clover Full Cream Milk 1L Unit,Snacks,23.85,31.96
+733,Albany Brown Bread Bottle,Cleaning,5.65,8.45
+734,Albany Brown Bread Bottle,Beverages,14.19,20.71
+735,Coca-Cola 500ml Unit,Cleaning,27.9,36.76
+736,Koo Baked Beans 410g Unit,Cleaning,23.82,34.09
+737,Nescafe Coffee 200g Pack,Beverages,45.81,73.01
+738,Nescafe Coffee 200g Bottle,Dairy,26.94,42.65
+739,Omo Washing Powder 2kg Bottle,Cleaning,23.11,32.94
+740,Nestle Milo 500g Box,Dairy,18.25,28.19
+741,Coca-Cola 500ml Box,Snacks,22.95,28.9
+742,Coca-Cola 500ml Unit,Bakery,34.03,51.37
+743,Five Roses Tea 100s Bottle,Pantry,26.5,32.19
+744,Coca-Cola 500ml Pack,Groceries,20.91,26.02
+745,Omo Washing Powder 2kg Bottle,Pantry,14.65,20.22
+746,Nescafe Coffee 200g Box,Cleaning,27.07,43.04
+747,Clover Full Cream Milk 1L Unit,Cleaning,45.1,60.27
+748,Simba Chips 120g Unit,Beverages,33.47,50.48
+749,Five Roses Tea 100s Pack,Pantry,44.52,65.83
+750,Five Roses Tea 100s Unit,Beverages,42.88,51.92
+751,Five Roses Tea 100s Unit,Cleaning,6.75,9.36
+752,Five Roses Tea 100s Unit,Cleaning,43.01,58.06
+753,Albany Brown Bread Unit,Dairy,31.46,46.71
+754,Simba Chips 120g Pack,Dairy,40.49,49.54
+755,Albany Brown Bread Unit,Groceries,22.91,27.51
+756,Nestle Milo 500g Bottle,Snacks,14.59,18.97
+757,Omo Washing Powder 2kg Pack,Cleaning,40.37,62.75
+758,Simba Chips 120g Bottle,Pantry,20.33,31.74
+759,Nescafe Coffee 200g Box,Bakery,49.49,69.04
+760,Sunlight Dish Liquid 750ml Box,Pantry,35.08,44.12
+761,Nescafe Coffee 200g Bottle,Cleaning,27.01,39.78
+762,Five Roses Tea 100s Pack,Snacks,22.59,33.99
+763,Nescafe Coffee 200g Unit,Cleaning,8.38,11.74
+764,Five Roses Tea 100s Unit,Bakery,47.09,57.77
+765,Koo Baked Beans 410g Unit,Cleaning,20.13,28.56
+766,Koo Baked Beans 410g Bottle,Groceries,22.81,33.65
+767,Simba Chips 120g Unit,Cleaning,32.55,43.05
+768,Omo Washing Powder 2kg Pack,Dairy,43.72,60.33
+769,Coca-Cola 500ml Unit,Bakery,20.55,29.65
+770,Sunlight Dish Liquid 750ml Unit,Snacks,23.51,36.6
+771,Five Roses Tea 100s Unit,Groceries,30.78,48.6
+772,Nescafe Coffee 200g Box,Snacks,9.35,11.73
+773,Five Roses Tea 100s Box,Pantry,17.85,27.81
+774,Koo Baked Beans 410g Pack,Beverages,11.61,15.29
+775,Sunlight Dish Liquid 750ml Pack,Snacks,23.81,34.87
+776,Nescafe Coffee 200g Bottle,Bakery,23.4,28.27
+777,Nescafe Coffee 200g Bottle,Dairy,32.11,46.46
+778,Koo Baked Beans 410g Pack,Beverages,30.79,43.64
+779,Sunlight Dish Liquid 750ml Pack,Bakery,40.91,53.36
+780,Sunlight Dish Liquid 750ml Pack,Pantry,21.95,32.84
+781,Sunlight Dish Liquid 750ml Unit,Cleaning,24.63,38.16
+782,Clover Full Cream Milk 1L Box,Cleaning,28.11,40.47
+783,Coca-Cola 500ml Bottle,Cleaning,16.18,25.84
+784,Nescafe Coffee 200g Box,Cleaning,17.54,22.01
+785,Nescafe Coffee 200g Box,Pantry,32.26,41.7
+786,Simba Chips 120g Box,Cleaning,17.61,25.47
+787,Five Roses Tea 100s Unit,Pantry,27.18,39.17
+788,Albany Brown Bread Pack,Bakery,14.48,20.51
+789,Omo Washing Powder 2kg Unit,Pantry,37.14,49.18
+790,Koo Baked Beans 410g Box,Beverages,48.66,65.73
+791,Koo Baked Beans 410g Unit,Pantry,47.7,65.23
+792,Sunlight Dish Liquid 750ml Pack,Snacks,47.91,60.93
+793,Nestle Milo 500g Bottle,Pantry,22.2,27.07
+794,Simba Chips 120g Pack,Beverages,40.31,53.73
+795,Albany Brown Bread Pack,Beverages,27.04,33.27
+796,Nescafe Coffee 200g Box,Dairy,44.57,69.55
+797,Five Roses Tea 100s Bottle,Groceries,27.4,41.58
+798,Simba Chips 120g Box,Bakery,25.37,31.82
+799,Coca-Cola 500ml Bottle,Snacks,29.37,35.63
+800,Omo Washing Powder 2kg Box,Snacks,15.59,19.21
+801,Coca-Cola 500ml Box,Pantry,43.39,61.78
+802,Five Roses Tea 100s Unit,Snacks,43.97,53.84
+803,Koo Baked Beans 410g Box,Cleaning,21.01,32.39
+804,Five Roses Tea 100s Unit,Snacks,44.06,61.56
+805,Nescafe Coffee 200g Box,Pantry,39.79,62.96
+806,Koo Baked Beans 410g Pack,Snacks,20.72,25.53
+807,Omo Washing Powder 2kg Bottle,Snacks,34.88,47.33
+808,Clover Full Cream Milk 1L Box,Cleaning,31.13,47.59
+809,Omo Washing Powder 2kg Pack,Dairy,14.34,22.23
+810,Sunlight Dish Liquid 750ml Box,Dairy,47.92,65.73
+811,Five Roses Tea 100s Pack,Pantry,43.55,61.36
+812,Albany Brown Bread Pack,Beverages,14.27,21.01
+813,Clover Full Cream Milk 1L Bottle,Groceries,37.46,54.65
+814,Clover Full Cream Milk 1L Box,Dairy,35.81,54.04
+815,Omo Washing Powder 2kg Box,Cleaning,11.82,18.69
+816,Coca-Cola 500ml Unit,Beverages,32.14,39.41
+817,Sunlight Dish Liquid 750ml Bottle,Dairy,7.91,11.07
+818,Omo Washing Powder 2kg Pack,Groceries,33.58,42.68
+819,Albany Brown Bread Unit,Groceries,14.79,19.05
+820,Nestle Milo 500g Bottle,Pantry,14.89,19.59
+821,Nestle Milo 500g Bottle,Groceries,28.72,38.59
+822,Coca-Cola 500ml Box,Bakery,36.55,52.82
+823,Nescafe Coffee 200g Pack,Pantry,31.53,42.1
+824,Simba Chips 120g Pack,Bakery,7.36,10.14
+825,Clover Full Cream Milk 1L Box,Groceries,6.15,8.01
+826,Five Roses Tea 100s Unit,Pantry,12.66,15.82
+827,Nestle Milo 500g Box,Beverages,46.65,56.97
+828,Coca-Cola 500ml Unit,Snacks,45.25,70.41
+829,Nescafe Coffee 200g Box,Pantry,43.65,54.41
+830,Five Roses Tea 100s Box,Snacks,22.45,30.57
+831,Coca-Cola 500ml Unit,Snacks,43.51,59.47
+832,Five Roses Tea 100s Pack,Groceries,24.85,35.92
+833,Five Roses Tea 100s Box,Bakery,8.77,13.24
+834,Nestle Milo 500g Pack,Bakery,43.64,55.62
+835,Nestle Milo 500g Box,Cleaning,31.39,49.82
+836,Nestle Milo 500g Box,Cleaning,22.59,31.15
+837,Koo Baked Beans 410g Box,Groceries,42.37,66.26
+838,Nestle Milo 500g Box,Snacks,9.86,12.3
+839,Simba Chips 120g Bottle,Beverages,29.75,37.95
+840,Omo Washing Powder 2kg Unit,Bakery,31.17,41.24
+841,Five Roses Tea 100s Unit,Dairy,25.0,37.62
+842,Coca-Cola 500ml Unit,Pantry,46.34,65.18
+843,Albany Brown Bread Bottle,Bakery,6.7,9.55
+844,Clover Full Cream Milk 1L Unit,Pantry,49.43,74.71
+845,Sunlight Dish Liquid 750ml Box,Pantry,39.74,63.0
+846,Nescafe Coffee 200g Bottle,Groceries,28.32,40.53
+847,Simba Chips 120g Bottle,Beverages,39.96,61.78
+848,Albany Brown Bread Bottle,Bakery,11.01,13.44
+849,Albany Brown Bread Bottle,Groceries,13.55,21.58
+850,Simba Chips 120g Bottle,Pantry,44.37,65.97
+851,Simba Chips 120g Unit,Dairy,49.01,61.25
+852,Nescafe Coffee 200g Pack,Snacks,6.55,9.77
+853,Clover Full Cream Milk 1L Pack,Pantry,31.06,48.2
+854,Koo Baked Beans 410g Unit,Snacks,10.72,15.23
+855,Omo Washing Powder 2kg Pack,Dairy,28.35,36.89
+856,Albany Brown Bread Unit,Dairy,22.98,30.59
+857,Clover Full Cream Milk 1L Pack,Dairy,14.17,21.58
+858,Nestle Milo 500g Unit,Cleaning,11.85,14.42
+859,Omo Washing Powder 2kg Bottle,Cleaning,22.59,35.95
+860,Nestle Milo 500g Box,Cleaning,5.52,8.56
+861,Coca-Cola 500ml Box,Groceries,30.3,43.44
+862,Five Roses Tea 100s Pack,Groceries,49.38,60.14
+863,Coca-Cola 500ml Box,Dairy,28.35,35.35
+864,Nescafe Coffee 200g Unit,Beverages,13.77,21.35
+865,Simba Chips 120g Unit,Beverages,36.05,53.8
+866,Simba Chips 120g Bottle,Snacks,32.83,52.38
+867,Albany Brown Bread Box,Cleaning,40.85,52.9
+868,Albany Brown Bread Box,Bakery,22.66,36.05
+869,Nestle Milo 500g Pack,Dairy,25.62,33.36
+870,Sunlight Dish Liquid 750ml Box,Bakery,7.95,9.74
+871,Clover Full Cream Milk 1L Bottle,Beverages,42.92,54.66
+872,Omo Washing Powder 2kg Box,Beverages,19.69,29.78
+873,Coca-Cola 500ml Box,Cleaning,35.05,50.77
+874,Sunlight Dish Liquid 750ml Pack,Dairy,7.97,11.41
+875,Sunlight Dish Liquid 750ml Pack,Dairy,45.1,61.69
+876,Sunlight Dish Liquid 750ml Box,Bakery,9.71,11.92
+877,Five Roses Tea 100s Unit,Bakery,33.59,45.82
+878,Albany Brown Bread Bottle,Beverages,33.12,40.36
+879,Coca-Cola 500ml Bottle,Cleaning,44.94,58.75
+880,Nescafe Coffee 200g Unit,Dairy,16.33,21.09
+881,Omo Washing Powder 2kg Unit,Beverages,30.05,42.71
+882,Albany Brown Bread Box,Beverages,35.18,51.6
+883,Nestle Milo 500g Pack,Snacks,40.15,62.4
+884,Omo Washing Powder 2kg Pack,Dairy,45.46,70.67
+885,Nestle Milo 500g Box,Dairy,41.32,58.48
+886,Clover Full Cream Milk 1L Unit,Bakery,21.65,32.44
+887,Nescafe Coffee 200g Unit,Dairy,14.87,22.69
+888,Omo Washing Powder 2kg Box,Dairy,45.2,71.96
+889,Sunlight Dish Liquid 750ml Box,Snacks,24.43,35.49
+890,Coca-Cola 500ml Box,Pantry,7.89,9.76
+891,Nescafe Coffee 200g Pack,Groceries,33.42,43.91
+892,Coca-Cola 500ml Unit,Cleaning,17.25,25.84
+893,Clover Full Cream Milk 1L Pack,Beverages,14.98,19.66
+894,Clover Full Cream Milk 1L Unit,Dairy,9.75,14.45
+895,Nestle Milo 500g Unit,Groceries,6.18,8.8
+896,Koo Baked Beans 410g Unit,Dairy,8.91,12.46
+897,Koo Baked Beans 410g Box,Snacks,33.06,52.18
+898,Nescafe Coffee 200g Bottle,Beverages,30.86,39.16
+899,Coca-Cola 500ml Unit,Bakery,34.49,41.58
+900,Nestle Milo 500g Bottle,Snacks,23.0,30.1
+901,Koo Baked Beans 410g Bottle,Bakery,48.06,68.95
+902,Coca-Cola 500ml Pack,Groceries,25.35,31.89
+903,Five Roses Tea 100s Pack,Dairy,32.39,40.81
+904,Simba Chips 120g Unit,Snacks,18.39,22.56
+905,Koo Baked Beans 410g Pack,Bakery,16.87,24.36
+906,Nescafe Coffee 200g Pack,Beverages,23.13,35.42
+907,Clover Full Cream Milk 1L Pack,Cleaning,32.07,50.95
+908,Albany Brown Bread Box,Bakery,16.25,21.63
+909,Nestle Milo 500g Unit,Dairy,48.77,70.58
+910,Omo Washing Powder 2kg Bottle,Snacks,17.0,25.07
+911,Nescafe Coffee 200g Bottle,Cleaning,24.76,37.19
+912,Nescafe Coffee 200g Bottle,Pantry,27.35,35.3
+913,Simba Chips 120g Unit,Dairy,14.71,18.8
+914,Koo Baked Beans 410g Pack,Cleaning,23.21,28.04
+915,Sunlight Dish Liquid 750ml Box,Groceries,9.94,14.09
+916,Koo Baked Beans 410g Pack,Pantry,44.41,67.38
+917,Five Roses Tea 100s Unit,Dairy,32.78,40.85
+918,Albany Brown Bread Bottle,Groceries,16.26,23.27
+919,Sunlight Dish Liquid 750ml Bottle,Beverages,8.71,10.94
+920,Albany Brown Bread Bottle,Bakery,9.06,12.83
+921,Coca-Cola 500ml Bottle,Snacks,33.5,47.63
+922,Omo Washing Powder 2kg Bottle,Pantry,9.77,15.11
+923,Albany Brown Bread Box,Beverages,29.99,37.14
+924,Sunlight Dish Liquid 750ml Bottle,Bakery,13.72,19.58
+925,Albany Brown Bread Unit,Bakery,15.8,21.34
+926,Albany Brown Bread Pack,Cleaning,16.44,24.8
+927,Omo Washing Powder 2kg Unit,Groceries,6.12,9.57
+928,Omo Washing Powder 2kg Bottle,Bakery,48.89,68.7
+929,Coca-Cola 500ml Unit,Cleaning,42.9,55.53
+930,Clover Full Cream Milk 1L Unit,Pantry,39.85,63.31
+931,Koo Baked Beans 410g Bottle,Groceries,28.47,43.61
+932,Nestle Milo 500g Pack,Beverages,11.01,14.23
+933,Nescafe Coffee 200g Box,Dairy,28.6,40.1
+934,Simba Chips 120g Pack,Pantry,18.54,25.4
+935,Coca-Cola 500ml Bottle,Beverages,37.35,49.47
+936,Omo Washing Powder 2kg Pack,Cleaning,13.6,21.07
+937,Coca-Cola 500ml Unit,Groceries,39.23,61.23
+938,Coca-Cola 500ml Bottle,Groceries,49.51,73.26
+939,Clover Full Cream Milk 1L Unit,Cleaning,45.11,58.81
+940,Nescafe Coffee 200g Unit,Pantry,22.64,31.1
+941,Albany Brown Bread Box,Bakery,31.37,40.54
+942,Five Roses Tea 100s Unit,Beverages,8.56,13.2
+943,Albany Brown Bread Box,Beverages,20.79,30.41
+944,Albany Brown Bread Unit,Dairy,17.26,25.68
+945,Koo Baked Beans 410g Pack,Cleaning,24.21,35.12
+946,Nescafe Coffee 200g Unit,Dairy,44.87,58.61
+947,Clover Full Cream Milk 1L Bottle,Bakery,43.25,53.66
+948,Nestle Milo 500g Unit,Beverages,43.1,63.38
+949,Nestle Milo 500g Pack,Dairy,40.68,56.45
+950,Simba Chips 120g Bottle,Pantry,19.02,23.48
+951,Clover Full Cream Milk 1L Pack,Cleaning,23.51,36.62
+952,Nestle Milo 500g Bottle,Pantry,31.6,39.63
+953,Coca-Cola 500ml Unit,Snacks,19.83,25.99
+954,Albany Brown Bread Pack,Bakery,25.08,34.45
+955,Albany Brown Bread Box,Cleaning,14.87,21.92
+956,Coca-Cola 500ml Box,Beverages,47.87,76.22
+957,Five Roses Tea 100s Bottle,Beverages,12.22,16.82
+958,Koo Baked Beans 410g Unit,Dairy,17.74,27.57
+959,Koo Baked Beans 410g Unit,Cleaning,21.08,25.98
+960,Clover Full Cream Milk 1L Box,Snacks,37.41,59.69
+961,Coca-Cola 500ml Unit,Bakery,45.38,55.15
+962,Sunlight Dish Liquid 750ml Pack,Cleaning,23.28,33.73
+963,Sunlight Dish Liquid 750ml Unit,Dairy,33.36,49.21
+964,Albany Brown Bread Pack,Snacks,43.97,57.75
+965,Nescafe Coffee 200g Box,Dairy,39.23,56.58
+966,Sunlight Dish Liquid 750ml Unit,Dairy,31.19,37.97
+967,Albany Brown Bread Pack,Bakery,10.47,16.49
+968,Five Roses Tea 100s Box,Cleaning,33.2,50.35
+969,Omo Washing Powder 2kg Pack,Snacks,6.87,9.76
+970,Simba Chips 120g Pack,Dairy,49.18,78.58
+971,Nescafe Coffee 200g Pack,Dairy,32.62,43.53
+972,Simba Chips 120g Pack,Beverages,30.26,39.66
+973,Clover Full Cream Milk 1L Unit,Groceries,14.54,19.91
+974,Albany Brown Bread Pack,Dairy,16.32,24.45
+975,Koo Baked Beans 410g Pack,Snacks,44.11,56.15
+976,Clover Full Cream Milk 1L Unit,Beverages,41.54,51.26
+977,Clover Full Cream Milk 1L Pack,Cleaning,35.9,50.93
+978,Koo Baked Beans 410g Bottle,Pantry,9.9,14.88
+979,Sunlight Dish Liquid 750ml Bottle,Pantry,12.42,18.28
+980,Omo Washing Powder 2kg Unit,Cleaning,39.01,58.01
+981,Albany Brown Bread Bottle,Pantry,44.54,58.72
+982,Simba Chips 120g Bottle,Snacks,17.65,25.75
+983,Coca-Cola 500ml Bottle,Pantry,24.33,33.74
+984,Nescafe Coffee 200g Box,Bakery,12.24,18.07
+985,Nestle Milo 500g Bottle,Beverages,7.73,11.52
+986,Nestle Milo 500g Bottle,Groceries,42.74,55.52
+987,Nescafe Coffee 200g Box,Pantry,46.09,66.98
+988,Omo Washing Powder 2kg Unit,Beverages,5.17,7.75
+989,Simba Chips 120g Unit,Cleaning,21.99,34.52
+990,Nestle Milo 500g Pack,Snacks,22.22,30.12
+991,Koo Baked Beans 410g Unit,Dairy,25.14,34.97
+992,Clover Full Cream Milk 1L Unit,Bakery,35.03,50.41
+993,Simba Chips 120g Pack,Bakery,29.99,43.52
+994,Nescafe Coffee 200g Bottle,Cleaning,49.27,61.42
+995,Sunlight Dish Liquid 750ml Bottle,Pantry,8.94,13.24
+996,Albany Brown Bread Unit,Groceries,5.81,8.39
+997,Nescafe Coffee 200g Box,Groceries,15.79,24.31
+998,Sunlight Dish Liquid 750ml Unit,Dairy,21.03,26.51
+999,Omo Washing Powder 2kg Pack,Dairy,27.13,39.5
+1000,Clover Full Cream Milk 1L Box,Groceries,44.79,64.31
+1001,Five Roses Tea 100s Pack,Beverages,28.52,44.01
+1002,Omo Washing Powder 2kg Pack,Cleaning,25.6,34.38
+1003,Nestle Milo 500g Bottle,Cleaning,48.02,59.66
+1004,Coca-Cola 500ml Unit,Pantry,42.46,67.29
+1005,Five Roses Tea 100s Pack,Pantry,37.66,45.8
+1006,Five Roses Tea 100s Unit,Snacks,16.14,22.76
+1007,Albany Brown Bread Unit,Cleaning,18.48,27.03
+1008,Sunlight Dish Liquid 750ml Unit,Dairy,41.0,54.88
+1009,Nescafe Coffee 200g Box,Pantry,9.62,15.23
+1010,Simba Chips 120g Bottle,Snacks,25.02,39.92
+1011,Sunlight Dish Liquid 750ml Bottle,Dairy,22.28,29.02
+1012,Nescafe Coffee 200g Unit,Cleaning,6.03,7.86
+1013,Nescafe Coffee 200g Bottle,Groceries,11.95,18.67
+1014,Simba Chips 120g Unit,Beverages,39.34,61.24
+1015,Koo Baked Beans 410g Bottle,Bakery,8.99,10.93
+1016,Simba Chips 120g Box,Pantry,13.88,20.55
+1017,Omo Washing Powder 2kg Bottle,Snacks,47.04,64.04
+1018,Sunlight Dish Liquid 750ml Box,Bakery,25.68,34.55
+1019,Five Roses Tea 100s Unit,Beverages,47.07,63.93
+1020,Omo Washing Powder 2kg Unit,Dairy,48.35,70.3
+1021,Sunlight Dish Liquid 750ml Unit,Beverages,32.19,48.34
+1022,Omo Washing Powder 2kg Bottle,Beverages,18.83,27.55
+1023,Simba Chips 120g Bottle,Pantry,20.12,30.7
+1024,Nescafe Coffee 200g Box,Pantry,42.42,62.11
+1025,Omo Washing Powder 2kg Box,Cleaning,16.69,25.57
+1026,Clover Full Cream Milk 1L Box,Bakery,26.91,33.52
+1027,Omo Washing Powder 2kg Pack,Dairy,35.96,53.85
+1028,Nestle Milo 500g Box,Snacks,39.29,58.89
+1029,Five Roses Tea 100s Unit,Dairy,6.89,8.81
+1030,Simba Chips 120g Box,Snacks,12.69,17.93
+1031,Five Roses Tea 100s Bottle,Cleaning,20.03,28.14
+1032,Nescafe Coffee 200g Pack,Bakery,21.67,33.92
+1033,Five Roses Tea 100s Unit,Groceries,14.85,20.69
+1034,Clover Full Cream Milk 1L Box,Groceries,41.65,62.38
+1035,Clover Full Cream Milk 1L Unit,Groceries,41.46,62.28
+1036,Coca-Cola 500ml Box,Pantry,13.04,17.01
+1037,Nestle Milo 500g Box,Cleaning,33.64,49.31
+1038,Simba Chips 120g Pack,Cleaning,41.72,50.78
+1039,Koo Baked Beans 410g Pack,Pantry,16.92,22.65
+1040,Sunlight Dish Liquid 750ml Pack,Cleaning,17.57,23.11
+1041,Clover Full Cream Milk 1L Bottle,Beverages,45.53,70.46
+1042,Clover Full Cream Milk 1L Pack,Bakery,24.35,38.37
+1043,Koo Baked Beans 410g Pack,Groceries,5.19,7.47
+1044,Sunlight Dish Liquid 750ml Box,Groceries,39.08,59.72
+1045,Five Roses Tea 100s Pack,Cleaning,39.96,52.51
+1046,Omo Washing Powder 2kg Unit,Beverages,45.37,61.2
+1047,Nescafe Coffee 200g Unit,Snacks,5.89,9.23
+1048,Simba Chips 120g Bottle,Beverages,7.07,10.51
+1049,Omo Washing Powder 2kg Bottle,Cleaning,41.76,60.58
+1050,Nestle Milo 500g Unit,Dairy,42.47,53.99
+1051,Clover Full Cream Milk 1L Unit,Bakery,12.8,18.19
+1052,Coca-Cola 500ml Box,Snacks,9.17,11.37
+1053,Omo Washing Powder 2kg Bottle,Beverages,30.72,48.09
+1054,Nescafe Coffee 200g Bottle,Pantry,9.1,12.94
+1055,Nescafe Coffee 200g Box,Groceries,45.24,67.72
+1056,Koo Baked Beans 410g Unit,Pantry,6.27,8.1
+1057,Five Roses Tea 100s Box,Snacks,21.86,34.17
+1058,Five Roses Tea 100s Bottle,Dairy,35.18,45.53
+1059,Clover Full Cream Milk 1L Unit,Groceries,12.99,19.6
+1060,Nescafe Coffee 200g Pack,Cleaning,25.25,36.12
+1061,Nestle Milo 500g Unit,Dairy,27.81,42.12
+1062,Omo Washing Powder 2kg Pack,Bakery,45.35,70.13
+1063,Simba Chips 120g Pack,Snacks,18.97,25.31
+1064,Sunlight Dish Liquid 750ml Bottle,Beverages,48.34,68.61
+1065,Nescafe Coffee 200g Pack,Dairy,21.07,25.77
+1066,Simba Chips 120g Unit,Snacks,13.78,19.09
+1067,Simba Chips 120g Unit,Dairy,21.59,26.97
+1068,Five Roses Tea 100s Pack,Snacks,48.18,72.12
+1069,Sunlight Dish Liquid 750ml Unit,Bakery,36.63,55.65
+1070,Five Roses Tea 100s Pack,Cleaning,14.07,19.03
+1071,Coca-Cola 500ml Bottle,Dairy,8.38,12.07
+1072,Simba Chips 120g Unit,Snacks,45.28,58.98
+1073,Five Roses Tea 100s Unit,Cleaning,44.94,63.57
+1074,Simba Chips 120g Bottle,Dairy,32.33,45.65
+1075,Nescafe Coffee 200g Unit,Pantry,48.52,64.99
+1076,Coca-Cola 500ml Bottle,Pantry,11.36,14.19
+1077,Simba Chips 120g Pack,Snacks,24.81,33.79
+1078,Five Roses Tea 100s Bottle,Beverages,29.11,36.45
+1079,Nestle Milo 500g Box,Snacks,25.19,34.14
+1080,Nestle Milo 500g Unit,Beverages,20.96,30.22
+1081,Nescafe Coffee 200g Unit,Cleaning,39.26,54.47
+1082,Coca-Cola 500ml Bottle,Bakery,11.41,15.32
+1083,Nestle Milo 500g Bottle,Beverages,30.05,43.84
+1084,Nestle Milo 500g Box,Cleaning,26.23,34.79
+1085,Sunlight Dish Liquid 750ml Pack,Pantry,19.01,28.37
+1086,Nestle Milo 500g Bottle,Snacks,28.05,36.16
+1087,Omo Washing Powder 2kg Unit,Dairy,8.29,13.25
+1088,Five Roses Tea 100s Pack,Groceries,16.66,23.79
+1089,Albany Brown Bread Unit,Beverages,43.62,57.83
+1090,Nescafe Coffee 200g Box,Bakery,15.8,19.21
+1091,Coca-Cola 500ml Box,Snacks,19.48,30.59
+1092,Koo Baked Beans 410g Pack,Dairy,34.78,53.88
+1093,Five Roses Tea 100s Box,Pantry,26.02,35.63
+1094,Nestle Milo 500g Unit,Beverages,48.06,65.13
+1095,Coca-Cola 500ml Pack,Pantry,11.43,17.61
+1096,Omo Washing Powder 2kg Unit,Dairy,18.85,29.69
+1097,Clover Full Cream Milk 1L Bottle,Bakery,46.28,71.41
+1098,Omo Washing Powder 2kg Box,Bakery,27.56,40.61
+1099,Koo Baked Beans 410g Bottle,Dairy,43.05,61.61
+1100,Simba Chips 120g Bottle,Dairy,15.08,22.82
+1101,Five Roses Tea 100s Unit,Dairy,7.93,12.47
+1102,Five Roses Tea 100s Box,Groceries,25.1,32.43
+1103,Koo Baked Beans 410g Unit,Snacks,30.39,48.13
+1104,Nestle Milo 500g Pack,Beverages,12.88,15.55
+1105,Koo Baked Beans 410g Bottle,Bakery,7.65,11.83
+1106,Clover Full Cream Milk 1L Unit,Groceries,20.93,31.29
+1107,Nestle Milo 500g Box,Groceries,49.8,63.22
+1108,Omo Washing Powder 2kg Pack,Snacks,24.34,30.91
+1109,Nestle Milo 500g Pack,Cleaning,36.34,46.83
+1110,Clover Full Cream Milk 1L Pack,Dairy,10.65,15.2
+1111,Albany Brown Bread Box,Snacks,43.71,54.44
+1112,Clover Full Cream Milk 1L Pack,Beverages,15.6,20.02
+1113,Sunlight Dish Liquid 750ml Bottle,Bakery,35.1,46.95
+1114,Nescafe Coffee 200g Unit,Bakery,38.23,48.23
+1115,Coca-Cola 500ml Pack,Dairy,16.95,24.39
+1116,Sunlight Dish Liquid 750ml Box,Beverages,35.55,55.23
+1117,Nescafe Coffee 200g Bottle,Dairy,25.42,36.23
+1118,Coca-Cola 500ml Unit,Bakery,14.27,18.49
+1119,Sunlight Dish Liquid 750ml Bottle,Pantry,13.42,16.13
+1120,Albany Brown Bread Bottle,Pantry,42.44,52.75
+1121,Albany Brown Bread Bottle,Groceries,33.9,40.91
+1122,Albany Brown Bread Unit,Dairy,11.13,14.14
+1123,Clover Full Cream Milk 1L Bottle,Dairy,26.94,33.09
+1124,Albany Brown Bread Bottle,Snacks,27.79,33.71
+1125,Albany Brown Bread Unit,Snacks,41.67,62.8
+1126,Nestle Milo 500g Unit,Snacks,35.37,46.55
+1127,Nescafe Coffee 200g Box,Groceries,20.18,26.29
+1128,Sunlight Dish Liquid 750ml Unit,Bakery,26.11,35.0
+1129,Albany Brown Bread Unit,Bakery,47.66,62.23
+1130,Nestle Milo 500g Bottle,Cleaning,18.48,29.46
+1131,Koo Baked Beans 410g Unit,Dairy,22.15,26.78
+1132,Koo Baked Beans 410g Box,Cleaning,7.99,12.2
+1133,Simba Chips 120g Box,Groceries,32.38,44.28
+1134,Five Roses Tea 100s Box,Beverages,42.06,59.81
+1135,Omo Washing Powder 2kg Bottle,Bakery,34.72,52.07
+1136,Coca-Cola 500ml Bottle,Groceries,21.83,30.19
+1137,Coca-Cola 500ml Bottle,Groceries,46.8,60.85
+1138,Nestle Milo 500g Unit,Cleaning,42.5,59.64
+1139,Simba Chips 120g Box,Dairy,38.73,55.14
+1140,Nescafe Coffee 200g Bottle,Dairy,23.29,28.49
+1141,Koo Baked Beans 410g Box,Groceries,33.88,50.69
+1142,Sunlight Dish Liquid 750ml Bottle,Beverages,16.6,23.34
+1143,Coca-Cola 500ml Bottle,Cleaning,41.68,60.28
+1144,Simba Chips 120g Bottle,Pantry,18.16,27.13
+1145,Simba Chips 120g Unit,Pantry,32.29,40.81
+1146,Koo Baked Beans 410g Unit,Dairy,14.45,19.21
+1147,Koo Baked Beans 410g Bottle,Pantry,13.14,18.68
+1148,Nestle Milo 500g Bottle,Dairy,38.47,55.5
+1149,Albany Brown Bread Pack,Cleaning,20.71,31.42
+1150,Clover Full Cream Milk 1L Box,Snacks,23.98,37.35
+1151,Sunlight Dish Liquid 750ml Box,Groceries,5.52,7.91
+1152,Simba Chips 120g Bottle,Snacks,20.9,32.74
+1153,Simba Chips 120g Pack,Dairy,31.54,47.78
+1154,Nescafe Coffee 200g Unit,Groceries,18.38,25.5
+1155,Nescafe Coffee 200g Bottle,Beverages,24.58,33.88
+1156,Clover Full Cream Milk 1L Box,Cleaning,23.62,37.49
+1157,Albany Brown Bread Bottle,Cleaning,16.74,25.71
+1158,Nestle Milo 500g Bottle,Bakery,28.17,41.12
+1159,Five Roses Tea 100s Box,Groceries,43.31,68.56
+1160,Five Roses Tea 100s Bottle,Groceries,35.69,51.29
+1161,Five Roses Tea 100s Unit,Snacks,10.51,14.83
+1162,Simba Chips 120g Box,Groceries,49.49,76.19
+1163,Coca-Cola 500ml Unit,Cleaning,32.41,43.33
+1164,Simba Chips 120g Pack,Dairy,41.09,57.9
+1165,Coca-Cola 500ml Bottle,Cleaning,26.43,38.84
+1166,Five Roses Tea 100s Unit,Cleaning,13.26,16.8
+1167,Nestle Milo 500g Unit,Dairy,39.71,47.74
+1168,Albany Brown Bread Unit,Cleaning,28.61,35.35
+1169,Coca-Cola 500ml Pack,Cleaning,33.62,42.44
+1170,Koo Baked Beans 410g Bottle,Snacks,35.1,42.24
+1171,Koo Baked Beans 410g Pack,Beverages,46.68,58.7
+1172,Simba Chips 120g Unit,Beverages,10.24,15.82
+1173,Sunlight Dish Liquid 750ml Unit,Dairy,20.79,31.27
+1174,Omo Washing Powder 2kg Box,Snacks,20.08,28.9
+1175,Simba Chips 120g Pack,Cleaning,10.93,16.44
+1176,Nestle Milo 500g Unit,Snacks,37.67,56.49
+1177,Clover Full Cream Milk 1L Bottle,Cleaning,36.97,52.71
+1178,Albany Brown Bread Unit,Beverages,10.14,15.31
+1179,Omo Washing Powder 2kg Bottle,Snacks,25.41,30.96
+1180,Omo Washing Powder 2kg Pack,Cleaning,24.21,29.49
+1181,Coca-Cola 500ml Box,Groceries,48.34,62.35
+1182,Koo Baked Beans 410g Box,Cleaning,31.96,39.21
+1183,Omo Washing Powder 2kg Unit,Pantry,9.28,14.47
+1184,Sunlight Dish Liquid 750ml Unit,Beverages,31.14,43.58
+1185,Five Roses Tea 100s Bottle,Dairy,22.85,30.48
+1186,Koo Baked Beans 410g Pack,Snacks,36.04,53.86
+1187,Omo Washing Powder 2kg Bottle,Snacks,13.81,19.35
+1188,Nescafe Coffee 200g Box,Groceries,30.05,41.0
+1189,Nescafe Coffee 200g Pack,Groceries,41.21,50.54
+1190,Simba Chips 120g Unit,Snacks,8.74,11.3
+1191,Clover Full Cream Milk 1L Pack,Dairy,16.2,25.66
+1192,Simba Chips 120g Unit,Groceries,46.8,64.35
+1193,Nestle Milo 500g Unit,Pantry,9.19,14.67
+1194,Five Roses Tea 100s Box,Groceries,37.43,54.42
+1195,Sunlight Dish Liquid 750ml Unit,Dairy,15.36,21.62
+1196,Omo Washing Powder 2kg Pack,Bakery,5.54,7.24
+1197,Coca-Cola 500ml Unit,Bakery,37.98,57.78
+1198,Sunlight Dish Liquid 750ml Unit,Bakery,41.04,56.05
+1199,Albany Brown Bread Bottle,Snacks,6.27,8.92
+1200,Coca-Cola 500ml Pack,Dairy,35.64,48.38
+1201,Sunlight Dish Liquid 750ml Pack,Pantry,9.96,15.22
+1202,Koo Baked Beans 410g Unit,Bakery,32.39,48.54
+1203,Clover Full Cream Milk 1L Unit,Beverages,36.46,51.25
+1204,Nescafe Coffee 200g Box,Beverages,10.34,14.08
+1205,Koo Baked Beans 410g Bottle,Groceries,29.42,36.8
+1206,Albany Brown Bread Pack,Cleaning,22.11,29.18
+1207,Omo Washing Powder 2kg Bottle,Cleaning,35.03,48.46
+1208,Koo Baked Beans 410g Bottle,Dairy,30.35,38.95
+1209,Nestle Milo 500g Pack,Snacks,16.97,24.57
+1210,Sunlight Dish Liquid 750ml Box,Snacks,44.86,56.19
+1211,Simba Chips 120g Bottle,Snacks,14.84,18.27
+1212,Nestle Milo 500g Pack,Dairy,27.64,33.69
+1213,Sunlight Dish Liquid 750ml Bottle,Dairy,15.41,22.75
+1214,Simba Chips 120g Unit,Beverages,33.09,45.75
+1215,Nestle Milo 500g Bottle,Cleaning,26.87,41.7
+1216,Albany Brown Bread Unit,Bakery,13.84,16.78
+1217,Nescafe Coffee 200g Bottle,Snacks,47.34,62.81
+1218,Omo Washing Powder 2kg Box,Groceries,38.34,46.35
+1219,Koo Baked Beans 410g Pack,Bakery,34.72,51.17
+1220,Sunlight Dish Liquid 750ml Box,Pantry,18.42,26.35
+1221,Albany Brown Bread Box,Dairy,13.29,20.96
+1222,Clover Full Cream Milk 1L Box,Dairy,6.62,8.7
+1223,Coca-Cola 500ml Box,Dairy,16.66,22.11
+1224,Nestle Milo 500g Box,Dairy,34.44,48.26
+1225,Clover Full Cream Milk 1L Bottle,Beverages,22.57,27.64
+1226,Nescafe Coffee 200g Pack,Dairy,20.16,27.16
+1227,Sunlight Dish Liquid 750ml Pack,Dairy,9.94,15.15
+1228,Koo Baked Beans 410g Bottle,Bakery,12.15,15.34
+1229,Clover Full Cream Milk 1L Pack,Dairy,7.53,9.45
+1230,Simba Chips 120g Bottle,Dairy,46.5,57.72
+1231,Coca-Cola 500ml Pack,Pantry,23.96,33.85
+1232,Omo Washing Powder 2kg Bottle,Snacks,27.7,39.02
+1233,Five Roses Tea 100s Unit,Bakery,37.24,48.41
+1234,Simba Chips 120g Box,Snacks,24.94,35.31
+1235,Five Roses Tea 100s Pack,Bakery,7.03,9.94
+1236,Five Roses Tea 100s Bottle,Dairy,11.4,15.35
+1237,Nescafe Coffee 200g Bottle,Dairy,9.82,14.89
+1238,Nescafe Coffee 200g Unit,Snacks,8.93,11.74
+1239,Sunlight Dish Liquid 750ml Unit,Bakery,35.64,54.08
+1240,Clover Full Cream Milk 1L Box,Groceries,33.12,42.92
+1241,Koo Baked Beans 410g Unit,Dairy,30.97,48.77
+1242,Nestle Milo 500g Box,Snacks,10.62,16.68
+1243,Five Roses Tea 100s Box,Beverages,23.7,33.09
+1244,Nestle Milo 500g Pack,Groceries,45.04,69.41
+1245,Coca-Cola 500ml Pack,Groceries,21.06,27.35
+1246,Five Roses Tea 100s Pack,Dairy,24.79,39.51
+1247,Simba Chips 120g Unit,Dairy,22.34,33.8
+1248,Albany Brown Bread Unit,Dairy,37.52,55.86
+1249,Albany Brown Bread Box,Pantry,42.0,63.39
+1250,Nescafe Coffee 200g Pack,Beverages,14.06,17.85
+1251,Simba Chips 120g Pack,Groceries,38.78,55.67
+1252,Koo Baked Beans 410g Bottle,Groceries,17.86,27.27
+1253,Sunlight Dish Liquid 750ml Pack,Pantry,21.91,29.72
+1254,Omo Washing Powder 2kg Bottle,Cleaning,44.73,62.43
+1255,Albany Brown Bread Box,Dairy,24.06,30.29
+1256,Nescafe Coffee 200g Unit,Cleaning,41.33,53.35
+1257,Nestle Milo 500g Unit,Groceries,12.25,15.37
+1258,Koo Baked Beans 410g Box,Groceries,30.6,37.06
+1259,Clover Full Cream Milk 1L Pack,Cleaning,9.28,12.94
+1260,Five Roses Tea 100s Bottle,Bakery,32.38,44.36
+1261,Coca-Cola 500ml Bottle,Beverages,11.67,16.17
+1262,Sunlight Dish Liquid 750ml Bottle,Bakery,31.01,45.2
+1263,Simba Chips 120g Box,Cleaning,45.72,64.17
+1264,Five Roses Tea 100s Unit,Snacks,37.07,55.96
+1265,Nestle Milo 500g Box,Cleaning,38.12,58.0
+1266,Nescafe Coffee 200g Unit,Dairy,6.55,8.49
+1267,Simba Chips 120g Bottle,Pantry,24.86,36.26
+1268,Coca-Cola 500ml Pack,Bakery,24.5,33.05
+1269,Coca-Cola 500ml Bottle,Snacks,12.88,16.16
+1270,Coca-Cola 500ml Unit,Pantry,17.51,24.76
+1271,Omo Washing Powder 2kg Box,Cleaning,23.8,32.64
+1272,Omo Washing Powder 2kg Unit,Dairy,30.82,41.83
+1273,Nestle Milo 500g Box,Groceries,15.37,24.21
+1274,Sunlight Dish Liquid 750ml Pack,Beverages,10.08,13.48
+1275,Clover Full Cream Milk 1L Unit,Snacks,13.69,16.69
+1276,Coca-Cola 500ml Bottle,Cleaning,16.48,25.62
+1277,Albany Brown Bread Pack,Bakery,44.18,53.79
+1278,Sunlight Dish Liquid 750ml Box,Bakery,5.98,7.83
+1279,Coca-Cola 500ml Unit,Dairy,19.05,25.96
+1280,Omo Washing Powder 2kg Unit,Groceries,15.06,21.45
+1281,Koo Baked Beans 410g Bottle,Beverages,26.77,40.02
+1282,Albany Brown Bread Bottle,Cleaning,16.04,23.28
+1283,Omo Washing Powder 2kg Pack,Cleaning,42.63,65.39
+1284,Nescafe Coffee 200g Pack,Pantry,36.17,52.57
+1285,Nestle Milo 500g Pack,Groceries,23.01,27.83
+1286,Simba Chips 120g Pack,Snacks,39.79,62.25
+1287,Nestle Milo 500g Unit,Bakery,47.94,63.8
+1288,Sunlight Dish Liquid 750ml Bottle,Pantry,46.88,68.03
+1289,Albany Brown Bread Unit,Snacks,30.55,43.75
+1290,Nescafe Coffee 200g Bottle,Beverages,13.28,16.77
+1291,Coca-Cola 500ml Bottle,Pantry,29.12,45.79
+1292,Koo Baked Beans 410g Unit,Bakery,34.36,52.68
+1293,Omo Washing Powder 2kg Bottle,Bakery,11.25,14.25
+1294,Nestle Milo 500g Box,Pantry,33.9,47.32
+1295,Sunlight Dish Liquid 750ml Unit,Cleaning,43.92,67.57
+1296,Simba Chips 120g Bottle,Groceries,18.93,23.22
+1297,Nestle Milo 500g Unit,Groceries,45.23,67.18
+1298,Nestle Milo 500g Unit,Pantry,43.91,59.56
+1299,Nestle Milo 500g Bottle,Bakery,26.27,33.12
+1300,Albany Brown Bread Box,Beverages,43.9,59.16
+1301,Simba Chips 120g Bottle,Cleaning,48.01,70.77
+1302,Coca-Cola 500ml Pack,Beverages,46.8,71.8
+1303,Five Roses Tea 100s Bottle,Beverages,45.78,72.11
+1304,Clover Full Cream Milk 1L Box,Dairy,25.89,38.33
+1305,Clover Full Cream Milk 1L Unit,Beverages,39.66,52.41
+1306,Koo Baked Beans 410g Unit,Pantry,37.05,55.59
+1307,Clover Full Cream Milk 1L Pack,Snacks,42.9,62.94
+1308,Albany Brown Bread Bottle,Cleaning,21.26,31.34
+1309,Nescafe Coffee 200g Pack,Snacks,35.44,47.91
+1310,Koo Baked Beans 410g Bottle,Snacks,29.01,40.98
+1311,Nescafe Coffee 200g Pack,Pantry,26.87,39.68
+1312,Nescafe Coffee 200g Unit,Beverages,18.48,28.55
+1313,Five Roses Tea 100s Bottle,Cleaning,26.68,32.71
+1314,Nescafe Coffee 200g Box,Cleaning,36.72,51.39
+1315,Koo Baked Beans 410g Pack,Bakery,6.51,7.87
+1316,Five Roses Tea 100s Bottle,Bakery,19.91,29.31
+1317,Albany Brown Bread Bottle,Dairy,11.93,18.11
+1318,Nescafe Coffee 200g Box,Pantry,47.59,64.76
+1319,Simba Chips 120g Unit,Cleaning,6.58,9.51
+1320,Albany Brown Bread Pack,Bakery,22.58,31.64
+1321,Sunlight Dish Liquid 750ml Unit,Dairy,32.08,39.6
+1322,Coca-Cola 500ml Pack,Bakery,18.62,27.07
+1323,Coca-Cola 500ml Box,Dairy,44.49,59.19
+1324,Nescafe Coffee 200g Bottle,Bakery,33.95,54.19
+1325,Nestle Milo 500g Box,Bakery,11.73,14.51
+1326,Koo Baked Beans 410g Bottle,Dairy,34.58,46.89
+1327,Sunlight Dish Liquid 750ml Unit,Cleaning,20.95,26.27
+1328,Simba Chips 120g Unit,Pantry,37.94,55.98
+1329,Koo Baked Beans 410g Pack,Snacks,25.5,34.04
+1330,Clover Full Cream Milk 1L Unit,Beverages,42.47,55.22
+1331,Clover Full Cream Milk 1L Bottle,Groceries,48.28,61.93
+1332,Koo Baked Beans 410g Pack,Snacks,45.76,58.01
+1333,Five Roses Tea 100s Pack,Groceries,6.1,7.47
+1334,Omo Washing Powder 2kg Pack,Snacks,33.69,45.25
+1335,Coca-Cola 500ml Unit,Cleaning,43.27,60.03
+1336,Coca-Cola 500ml Box,Beverages,29.98,47.88
+1337,Simba Chips 120g Bottle,Snacks,44.01,56.99
+1338,Nestle Milo 500g Unit,Bakery,14.87,20.07
+1339,Simba Chips 120g Box,Beverages,34.67,51.78
+1340,Sunlight Dish Liquid 750ml Box,Groceries,8.72,11.28
+1341,Sunlight Dish Liquid 750ml Unit,Cleaning,31.34,43.98
+1342,Omo Washing Powder 2kg Unit,Cleaning,45.55,60.98
+1343,Omo Washing Powder 2kg Bottle,Pantry,26.03,32.89
+1344,Clover Full Cream Milk 1L Unit,Beverages,20.03,27.0
+1345,Nescafe Coffee 200g Box,Groceries,30.44,39.94
+1346,Sunlight Dish Liquid 750ml Pack,Pantry,38.09,57.61
+1347,Coca-Cola 500ml Box,Snacks,38.92,58.21
+1348,Sunlight Dish Liquid 750ml Box,Groceries,27.67,41.96
+1349,Albany Brown Bread Pack,Bakery,29.38,41.21
+1350,Simba Chips 120g Bottle,Cleaning,28.64,44.18
+1351,Nestle Milo 500g Box,Bakery,7.17,8.64
+1352,Albany Brown Bread Box,Groceries,38.84,47.23
+1353,Koo Baked Beans 410g Bottle,Pantry,33.18,50.12
+1354,Nestle Milo 500g Unit,Beverages,39.47,55.23
+1355,Nestle Milo 500g Pack,Pantry,6.67,9.39
+1356,Simba Chips 120g Box,Dairy,40.43,58.84
+1357,Omo Washing Powder 2kg Box,Beverages,12.25,15.81
+1358,Albany Brown Bread Pack,Groceries,48.05,74.41
+1359,Simba Chips 120g Bottle,Groceries,41.5,54.03
+1360,Albany Brown Bread Unit,Bakery,46.03,65.66
+1361,Sunlight Dish Liquid 750ml Box,Groceries,17.29,25.98
+1362,Sunlight Dish Liquid 750ml Unit,Dairy,45.84,68.26
+1363,Sunlight Dish Liquid 750ml Pack,Dairy,33.07,52.28
+1364,Coca-Cola 500ml Bottle,Dairy,47.01,66.64
+1365,Coca-Cola 500ml Unit,Groceries,40.85,58.86
+1366,Omo Washing Powder 2kg Bottle,Snacks,7.99,12.48
+1367,Koo Baked Beans 410g Bottle,Cleaning,7.2,9.0
+1368,Albany Brown Bread Box,Pantry,19.9,25.66
+1369,Clover Full Cream Milk 1L Unit,Cleaning,32.07,46.48
+1370,Sunlight Dish Liquid 750ml Bottle,Pantry,38.58,58.94
+1371,Simba Chips 120g Bottle,Dairy,32.38,50.41
+1372,Coca-Cola 500ml Box,Cleaning,21.5,33.9
+1373,Sunlight Dish Liquid 750ml Unit,Pantry,30.76,47.4
+1374,Sunlight Dish Liquid 750ml Box,Pantry,17.61,23.47
+1375,Clover Full Cream Milk 1L Box,Cleaning,9.71,13.74
+1376,Koo Baked Beans 410g Unit,Cleaning,27.9,41.5
+1377,Clover Full Cream Milk 1L Pack,Beverages,24.58,38.14
+1378,Albany Brown Bread Bottle,Pantry,7.5,9.15
+1379,Coca-Cola 500ml Box,Snacks,42.7,54.09
+1380,Koo Baked Beans 410g Box,Cleaning,49.19,64.39
+1381,Omo Washing Powder 2kg Bottle,Groceries,25.32,36.8
+1382,Sunlight Dish Liquid 750ml Box,Dairy,24.98,39.14
+1383,Sunlight Dish Liquid 750ml Pack,Bakery,46.3,70.97
+1384,Albany Brown Bread Unit,Beverages,9.31,14.79
+1385,Five Roses Tea 100s Pack,Groceries,32.21,41.04
+1386,Coca-Cola 500ml Unit,Beverages,24.26,32.1
+1387,Simba Chips 120g Pack,Beverages,28.5,36.78
+1388,Nescafe Coffee 200g Box,Pantry,28.69,36.87
+1389,Albany Brown Bread Pack,Groceries,21.77,32.75
+1390,Omo Washing Powder 2kg Unit,Dairy,16.81,26.58
+1391,Clover Full Cream Milk 1L Unit,Pantry,30.55,48.52
+1392,Simba Chips 120g Bottle,Groceries,17.19,22.16
+1393,Sunlight Dish Liquid 750ml Pack,Snacks,40.53,51.93
+1394,Albany Brown Bread Pack,Pantry,44.99,64.47
+1395,Clover Full Cream Milk 1L Unit,Cleaning,32.37,45.85
+1396,Nestle Milo 500g Pack,Pantry,18.16,28.72
+1397,Omo Washing Powder 2kg Pack,Cleaning,48.69,71.59
+1398,Omo Washing Powder 2kg Pack,Snacks,21.69,26.72
+1399,Nestle Milo 500g Unit,Dairy,40.24,53.28
+1400,Coca-Cola 500ml Unit,Dairy,42.31,60.13
+1401,Nescafe Coffee 200g Bottle,Bakery,48.85,74.56
+1402,Clover Full Cream Milk 1L Box,Pantry,31.68,43.88
+1403,Koo Baked Beans 410g Unit,Beverages,47.99,74.5
+1404,Nestle Milo 500g Unit,Beverages,11.15,14.12
+1405,Sunlight Dish Liquid 750ml Bottle,Groceries,14.37,18.23
+1406,Omo Washing Powder 2kg Unit,Pantry,40.39,62.45
+1407,Nestle Milo 500g Unit,Pantry,34.75,49.02
+1408,Nestle Milo 500g Unit,Beverages,47.43,64.55
+1409,Sunlight Dish Liquid 750ml Bottle,Bakery,30.53,45.03
+1410,Koo Baked Beans 410g Pack,Snacks,35.15,46.85
+1411,Koo Baked Beans 410g Unit,Cleaning,20.06,30.09
+1412,Coca-Cola 500ml Bottle,Dairy,39.03,48.39
+1413,Clover Full Cream Milk 1L Unit,Pantry,6.08,9.34
+1414,Five Roses Tea 100s Bottle,Dairy,18.65,26.5
+1415,Clover Full Cream Milk 1L Pack,Dairy,12.3,17.87
+1416,Simba Chips 120g Box,Groceries,39.18,50.98
+1417,Coca-Cola 500ml Pack,Bakery,37.39,52.59
+1418,Koo Baked Beans 410g Bottle,Cleaning,36.79,51.54
+1419,Koo Baked Beans 410g Unit,Dairy,18.16,21.87
+1420,Clover Full Cream Milk 1L Unit,Groceries,14.27,17.75
+1421,Sunlight Dish Liquid 750ml Unit,Bakery,20.94,27.96
+1422,Koo Baked Beans 410g Pack,Groceries,29.58,39.98
+1423,Simba Chips 120g Pack,Bakery,36.36,57.46
+1424,Clover Full Cream Milk 1L Bottle,Dairy,21.39,34.08
+1425,Five Roses Tea 100s Box,Cleaning,33.25,44.0
+1426,Five Roses Tea 100s Box,Cleaning,17.59,23.93
+1427,Clover Full Cream Milk 1L Pack,Groceries,30.45,42.38
+1428,Simba Chips 120g Bottle,Beverages,46.19,73.39
+1429,Five Roses Tea 100s Unit,Beverages,20.01,26.89
+1430,Sunlight Dish Liquid 750ml Box,Groceries,49.78,77.04
+1431,Five Roses Tea 100s Bottle,Groceries,45.46,60.28
+1432,Albany Brown Bread Pack,Pantry,33.64,50.65
+1433,Clover Full Cream Milk 1L Box,Bakery,6.2,8.16
+1434,Clover Full Cream Milk 1L Bottle,Bakery,48.83,69.0
+1435,Nestle Milo 500g Unit,Beverages,27.45,40.96
+1436,Sunlight Dish Liquid 750ml Box,Snacks,8.83,11.76
+1437,Simba Chips 120g Box,Snacks,30.25,41.33
+1438,Clover Full Cream Milk 1L Box,Dairy,11.12,15.85
+1439,Koo Baked Beans 410g Bottle,Cleaning,7.78,9.85
+1440,Nescafe Coffee 200g Box,Snacks,18.79,23.56
+1441,Nescafe Coffee 200g Bottle,Pantry,39.66,54.43
+1442,Nestle Milo 500g Bottle,Bakery,35.38,49.99
+1443,Koo Baked Beans 410g Pack,Pantry,14.14,19.61
+1444,Clover Full Cream Milk 1L Box,Cleaning,41.13,63.24
+1445,Simba Chips 120g Unit,Dairy,37.69,49.37
+1446,Clover Full Cream Milk 1L Pack,Cleaning,26.28,35.72
+1447,Nestle Milo 500g Pack,Cleaning,27.72,35.59
+1448,Clover Full Cream Milk 1L Box,Beverages,40.43,51.99
+1449,Nescafe Coffee 200g Box,Groceries,27.31,41.32
+1450,Koo Baked Beans 410g Box,Snacks,40.5,49.72
+1451,Nestle Milo 500g Box,Beverages,22.96,29.09
+1452,Albany Brown Bread Pack,Dairy,17.72,28.06
+1453,Nescafe Coffee 200g Box,Snacks,46.58,71.3
+1454,Omo Washing Powder 2kg Bottle,Dairy,30.04,47.24
+1455,Nestle Milo 500g Pack,Beverages,19.63,27.92
+1456,Nescafe Coffee 200g Unit,Bakery,31.54,39.53
+1457,Nescafe Coffee 200g Box,Snacks,47.11,73.15
+1458,Koo Baked Beans 410g Unit,Groceries,32.98,45.86
+1459,Five Roses Tea 100s Unit,Dairy,19.8,24.07
+1460,Omo Washing Powder 2kg Bottle,Groceries,7.59,10.23
+1461,Simba Chips 120g Pack,Cleaning,28.13,39.09
+1462,Five Roses Tea 100s Bottle,Bakery,14.93,21.98
+1463,Albany Brown Bread Pack,Beverages,6.46,8.01
+1464,Five Roses Tea 100s Bottle,Dairy,43.72,63.68
+1465,Nescafe Coffee 200g Pack,Beverages,41.83,61.47
+1466,Sunlight Dish Liquid 750ml Pack,Groceries,30.25,38.14
+1467,Sunlight Dish Liquid 750ml Pack,Beverages,8.29,12.34
+1468,Albany Brown Bread Pack,Dairy,25.11,31.93
+1469,Omo Washing Powder 2kg Box,Dairy,49.54,72.24
+1470,Coca-Cola 500ml Unit,Cleaning,19.46,30.11
+1471,Five Roses Tea 100s Pack,Bakery,28.11,44.05
+1472,Omo Washing Powder 2kg Pack,Groceries,38.93,48.17
+1473,Five Roses Tea 100s Bottle,Groceries,42.08,55.53
+1474,Sunlight Dish Liquid 750ml Box,Groceries,28.17,44.91
+1475,Omo Washing Powder 2kg Box,Groceries,9.38,14.82
+1476,Coca-Cola 500ml Box,Snacks,19.58,23.97
+1477,Clover Full Cream Milk 1L Box,Dairy,21.55,28.25
+1478,Five Roses Tea 100s Box,Beverages,45.0,54.56
+1479,Simba Chips 120g Box,Bakery,10.48,14.24
+1480,Albany Brown Bread Unit,Cleaning,47.38,67.72
+1481,Clover Full Cream Milk 1L Bottle,Snacks,41.09,55.89
+1482,Five Roses Tea 100s Bottle,Cleaning,36.62,58.05
+1483,Sunlight Dish Liquid 750ml Box,Beverages,12.9,20.55
+1484,Nescafe Coffee 200g Unit,Dairy,47.56,64.97
+1485,Five Roses Tea 100s Pack,Groceries,16.08,25.51
+1486,Sunlight Dish Liquid 750ml Unit,Cleaning,15.13,20.49
+1487,Clover Full Cream Milk 1L Unit,Dairy,48.25,58.75
+1488,Nescafe Coffee 200g Pack,Beverages,34.94,44.94
+1489,Simba Chips 120g Unit,Bakery,32.63,50.77
+1490,Koo Baked Beans 410g Unit,Bakery,24.25,34.09
+1491,Five Roses Tea 100s Unit,Snacks,48.31,67.84
+1492,Nescafe Coffee 200g Bottle,Bakery,14.39,17.31
+1493,Albany Brown Bread Unit,Beverages,34.02,50.94
+1494,Five Roses Tea 100s Bottle,Cleaning,21.43,31.29
+1495,Nescafe Coffee 200g Unit,Beverages,8.11,11.21
+1496,Five Roses Tea 100s Box,Pantry,26.71,40.25
+1497,Sunlight Dish Liquid 750ml Unit,Groceries,44.19,65.3
+1498,Nescafe Coffee 200g Unit,Pantry,32.76,48.03
+1499,Omo Washing Powder 2kg Unit,Cleaning,33.43,53.33
+1500,Coca-Cola 500ml Unit,Groceries,16.47,22.86
+1501,Sunlight Dish Liquid 750ml Bottle,Groceries,6.52,9.44
+1502,Nestle Milo 500g Unit,Cleaning,12.08,16.52
+1503,Omo Washing Powder 2kg Box,Beverages,35.45,56.64
+1504,Sunlight Dish Liquid 750ml Unit,Beverages,5.31,7.67
+1505,Clover Full Cream Milk 1L Pack,Dairy,47.84,68.78
+1506,Omo Washing Powder 2kg Unit,Dairy,39.61,52.48
+1507,Albany Brown Bread Unit,Beverages,21.55,26.3
+1508,Omo Washing Powder 2kg Unit,Cleaning,31.1,40.37
+1509,Five Roses Tea 100s Unit,Beverages,17.67,22.83
+1510,Nestle Milo 500g Bottle,Groceries,41.18,51.86
+1511,Nestle Milo 500g Pack,Bakery,41.16,61.75
+1512,Simba Chips 120g Box,Groceries,30.18,45.57
+1513,Nestle Milo 500g Unit,Snacks,30.13,41.66
+1514,Sunlight Dish Liquid 750ml Unit,Dairy,20.61,25.35
+1515,Sunlight Dish Liquid 750ml Unit,Pantry,35.99,46.41
+1516,Koo Baked Beans 410g Box,Bakery,49.82,60.44
+1517,Albany Brown Bread Bottle,Bakery,29.54,36.03
+1518,Nestle Milo 500g Pack,Groceries,40.05,54.88
+1519,Clover Full Cream Milk 1L Pack,Snacks,16.07,24.73
+1520,Albany Brown Bread Unit,Cleaning,27.13,42.08
+1521,Nestle Milo 500g Unit,Dairy,20.43,29.7
+1522,Clover Full Cream Milk 1L Unit,Beverages,32.13,49.17
+1523,Sunlight Dish Liquid 750ml Bottle,Pantry,40.08,49.46
+1524,Simba Chips 120g Bottle,Groceries,16.25,24.69
+1525,Sunlight Dish Liquid 750ml Unit,Bakery,22.6,31.05
+1526,Omo Washing Powder 2kg Pack,Beverages,16.35,23.5
+1527,Sunlight Dish Liquid 750ml Box,Beverages,47.76,73.04
+1528,Coca-Cola 500ml Unit,Groceries,41.35,53.5
+1529,Coca-Cola 500ml Unit,Cleaning,42.79,59.84
+1530,Coca-Cola 500ml Box,Bakery,24.04,29.33
+1531,Albany Brown Bread Unit,Pantry,31.28,47.23
+1532,Nescafe Coffee 200g Pack,Bakery,19.58,24.59
+1533,Omo Washing Powder 2kg Box,Groceries,48.41,58.88
+1534,Albany Brown Bread Bottle,Groceries,49.12,66.68
+1535,Simba Chips 120g Bottle,Snacks,14.09,18.31
+1536,Omo Washing Powder 2kg Pack,Bakery,40.32,60.05
+1537,Nescafe Coffee 200g Unit,Snacks,15.97,21.98
+1538,Nescafe Coffee 200g Bottle,Cleaning,30.37,44.47
+1539,Coca-Cola 500ml Bottle,Beverages,22.79,33.12
+1540,Omo Washing Powder 2kg Box,Snacks,31.52,43.96
+1541,Coca-Cola 500ml Box,Groceries,48.95,77.29
+1542,Nestle Milo 500g Bottle,Bakery,9.39,14.84
+1543,Sunlight Dish Liquid 750ml Bottle,Beverages,28.66,45.7
+1544,Coca-Cola 500ml Bottle,Snacks,37.6,47.76
+1545,Clover Full Cream Milk 1L Unit,Cleaning,36.43,50.97
+1546,Coca-Cola 500ml Box,Cleaning,6.58,8.0
+1547,Five Roses Tea 100s Unit,Bakery,7.39,10.59
+1548,Nescafe Coffee 200g Pack,Groceries,30.77,45.84
+1549,Sunlight Dish Liquid 750ml Box,Cleaning,39.63,50.71
+1550,Clover Full Cream Milk 1L Unit,Dairy,40.87,57.62
+1551,Omo Washing Powder 2kg Bottle,Pantry,5.88,7.16
+1552,Nescafe Coffee 200g Unit,Dairy,7.0,10.18
+1553,Sunlight Dish Liquid 750ml Box,Bakery,38.83,57.32
+1554,Simba Chips 120g Bottle,Snacks,19.12,25.31
+1555,Simba Chips 120g Pack,Snacks,15.16,20.45
+1556,Nestle Milo 500g Bottle,Beverages,12.31,19.21
+1557,Nestle Milo 500g Bottle,Beverages,20.01,29.44
+1558,Coca-Cola 500ml Pack,Snacks,46.08,57.38
+1559,Five Roses Tea 100s Box,Groceries,34.73,51.31
+1560,Nestle Milo 500g Bottle,Pantry,49.69,67.63
+1561,Omo Washing Powder 2kg Pack,Pantry,34.38,41.87
+1562,Nescafe Coffee 200g Pack,Snacks,40.31,62.88
+1563,Nestle Milo 500g Unit,Snacks,36.67,54.61
+1564,Nestle Milo 500g Pack,Pantry,40.06,52.17
+1565,Nescafe Coffee 200g Unit,Bakery,33.14,51.4
+1566,Nescafe Coffee 200g Bottle,Dairy,41.2,62.06
+1567,Nescafe Coffee 200g Box,Cleaning,22.36,32.94
+1568,Coca-Cola 500ml Unit,Snacks,29.98,41.62
+1569,Clover Full Cream Milk 1L Box,Pantry,48.13,69.33
+1570,Koo Baked Beans 410g Box,Beverages,16.2,23.71
+1571,Sunlight Dish Liquid 750ml Unit,Cleaning,45.3,64.16
+1572,Koo Baked Beans 410g Bottle,Beverages,16.46,24.7
+1573,Albany Brown Bread Box,Dairy,43.29,57.21
+1574,Five Roses Tea 100s Unit,Beverages,8.52,11.59
+1575,Albany Brown Bread Unit,Groceries,30.35,47.67
+1576,Omo Washing Powder 2kg Unit,Groceries,35.64,46.94
+1577,Nestle Milo 500g Pack,Dairy,24.16,34.55
+1578,Coca-Cola 500ml Box,Dairy,38.08,48.32
+1579,Simba Chips 120g Box,Bakery,29.17,37.26
+1580,Clover Full Cream Milk 1L Unit,Dairy,31.65,47.93
+1581,Coca-Cola 500ml Unit,Groceries,44.65,56.83
+1582,Nescafe Coffee 200g Pack,Beverages,9.51,13.97
+1583,Five Roses Tea 100s Unit,Pantry,34.45,44.39
+1584,Koo Baked Beans 410g Pack,Snacks,25.02,38.78
+1585,Albany Brown Bread Unit,Dairy,34.91,49.62
+1586,Albany Brown Bread Box,Bakery,20.41,27.12
+1587,Sunlight Dish Liquid 750ml Bottle,Dairy,46.15,61.71
+1588,Omo Washing Powder 2kg Bottle,Dairy,9.34,13.81
+1589,Five Roses Tea 100s Box,Dairy,43.87,57.58
+1590,Albany Brown Bread Pack,Snacks,49.01,73.43
+1591,Omo Washing Powder 2kg Pack,Bakery,12.89,20.09
+1592,Clover Full Cream Milk 1L Pack,Beverages,32.37,43.46
+1593,Simba Chips 120g Pack,Pantry,28.46,44.15
+1594,Five Roses Tea 100s Box,Dairy,34.78,42.63
+1595,Coca-Cola 500ml Box,Dairy,27.86,40.28
+1596,Omo Washing Powder 2kg Unit,Beverages,37.29,50.49
+1597,Albany Brown Bread Unit,Snacks,18.69,27.38
+1598,Simba Chips 120g Unit,Beverages,41.06,51.53
+1599,Five Roses Tea 100s Pack,Beverages,48.72,63.03
+1600,Nescafe Coffee 200g Bottle,Dairy,7.71,11.14
+1601,Clover Full Cream Milk 1L Box,Bakery,5.37,7.0
+1602,Nestle Milo 500g Bottle,Groceries,49.27,66.42
+1603,Koo Baked Beans 410g Unit,Beverages,22.17,30.11
+1604,Nestle Milo 500g Bottle,Cleaning,22.07,26.49
+1605,Albany Brown Bread Pack,Dairy,47.57,57.43
+1606,Coca-Cola 500ml Unit,Snacks,40.31,53.43
+1607,Sunlight Dish Liquid 750ml Bottle,Groceries,41.32,51.06
+1608,Simba Chips 120g Bottle,Cleaning,34.02,42.68
+1609,Koo Baked Beans 410g Box,Snacks,33.24,49.44
+1610,Simba Chips 120g Box,Cleaning,38.46,52.25
+1611,Nescafe Coffee 200g Bottle,Dairy,11.96,19.1
+1612,Simba Chips 120g Unit,Beverages,12.19,19.16
+1613,Koo Baked Beans 410g Unit,Pantry,10.24,15.89
+1614,Nestle Milo 500g Unit,Cleaning,37.45,50.91
+1615,Sunlight Dish Liquid 750ml Pack,Cleaning,46.75,65.55
+1616,Nestle Milo 500g Unit,Cleaning,21.24,29.17
+1617,Nestle Milo 500g Bottle,Snacks,31.1,47.7
+1618,Koo Baked Beans 410g Unit,Snacks,38.45,48.37
+1619,Sunlight Dish Liquid 750ml Unit,Beverages,8.51,13.46
+1620,Koo Baked Beans 410g Box,Beverages,44.4,59.25
+1621,Sunlight Dish Liquid 750ml Unit,Beverages,30.24,37.3
+1622,Koo Baked Beans 410g Unit,Pantry,11.37,16.78
+1623,Sunlight Dish Liquid 750ml Unit,Bakery,49.3,76.9
+1624,Five Roses Tea 100s Unit,Beverages,32.91,51.59
+1625,Albany Brown Bread Box,Snacks,17.52,27.39
+1626,Omo Washing Powder 2kg Pack,Snacks,19.1,28.84
+1627,Koo Baked Beans 410g Bottle,Dairy,28.36,42.24
+1628,Clover Full Cream Milk 1L Unit,Cleaning,49.74,69.81
+1629,Coca-Cola 500ml Unit,Snacks,20.83,26.83
+1630,Nescafe Coffee 200g Unit,Dairy,13.06,15.91
+1631,Nestle Milo 500g Box,Groceries,22.85,27.92
+1632,Albany Brown Bread Bottle,Beverages,29.45,43.54
+1633,Omo Washing Powder 2kg Unit,Cleaning,25.74,31.55
+1634,Clover Full Cream Milk 1L Unit,Dairy,9.9,11.91
+1635,Albany Brown Bread Pack,Pantry,48.24,61.7
+1636,Koo Baked Beans 410g Bottle,Groceries,18.84,29.89
+1637,Albany Brown Bread Bottle,Dairy,30.07,45.11
+1638,Nestle Milo 500g Unit,Cleaning,28.67,41.28
+1639,Sunlight Dish Liquid 750ml Unit,Beverages,30.45,40.62
+1640,Clover Full Cream Milk 1L Box,Snacks,15.86,23.91
+1641,Sunlight Dish Liquid 750ml Pack,Dairy,21.8,28.44
+1642,Five Roses Tea 100s Unit,Snacks,30.58,37.21
+1643,Albany Brown Bread Pack,Snacks,37.32,56.38
+1644,Simba Chips 120g Bottle,Cleaning,23.16,31.76
+1645,Omo Washing Powder 2kg Box,Snacks,32.52,48.37
+1646,Koo Baked Beans 410g Pack,Dairy,44.82,58.73
+1647,Sunlight Dish Liquid 750ml Pack,Bakery,16.12,25.75
+1648,Omo Washing Powder 2kg Bottle,Bakery,44.32,60.88
+1649,Five Roses Tea 100s Unit,Snacks,41.56,54.99
+1650,Albany Brown Bread Box,Groceries,43.17,52.46
+1651,Koo Baked Beans 410g Pack,Pantry,22.38,27.06
+1652,Simba Chips 120g Pack,Snacks,45.43,64.95
+1653,Coca-Cola 500ml Box,Groceries,22.69,32.61
+1654,Coca-Cola 500ml Pack,Cleaning,37.67,45.57
+1655,Coca-Cola 500ml Bottle,Dairy,11.1,15.79
+1656,Clover Full Cream Milk 1L Box,Beverages,35.22,54.51
+1657,Coca-Cola 500ml Bottle,Groceries,41.25,59.52
+1658,Nescafe Coffee 200g Bottle,Cleaning,17.11,22.21
+1659,Albany Brown Bread Unit,Groceries,38.63,46.74
+1660,Clover Full Cream Milk 1L Pack,Snacks,16.31,25.79
+1661,Albany Brown Bread Box,Beverages,6.98,9.66
+1662,Koo Baked Beans 410g Pack,Dairy,10.4,15.3
+1663,Nescafe Coffee 200g Pack,Pantry,7.34,10.52
+1664,Coca-Cola 500ml Pack,Cleaning,49.46,62.0
+1665,Clover Full Cream Milk 1L Box,Bakery,40.58,56.83
+1666,Sunlight Dish Liquid 750ml Bottle,Dairy,23.93,31.43
+1667,Simba Chips 120g Bottle,Beverages,29.74,45.55
+1668,Sunlight Dish Liquid 750ml Pack,Cleaning,10.96,16.38
+1669,Koo Baked Beans 410g Unit,Dairy,49.02,71.06
+1670,Omo Washing Powder 2kg Box,Pantry,11.43,17.38
+1671,Omo Washing Powder 2kg Unit,Beverages,25.59,40.41
+1672,Nescafe Coffee 200g Pack,Bakery,6.02,7.68
+1673,Coca-Cola 500ml Unit,Pantry,19.66,29.31
+1674,Simba Chips 120g Bottle,Bakery,29.13,43.81
+1675,Sunlight Dish Liquid 750ml Pack,Beverages,10.44,14.88
+1676,Coca-Cola 500ml Bottle,Groceries,46.05,56.86
+1677,Nescafe Coffee 200g Box,Groceries,5.58,7.03
+1678,Nestle Milo 500g Box,Groceries,23.41,33.51
+1679,Albany Brown Bread Pack,Groceries,8.77,12.79
+1680,Sunlight Dish Liquid 750ml Box,Snacks,13.26,18.19
+1681,Five Roses Tea 100s Unit,Dairy,26.63,40.88
+1682,Simba Chips 120g Pack,Groceries,18.42,25.16
+1683,Nescafe Coffee 200g Box,Pantry,17.27,25.37
+1684,Nestle Milo 500g Unit,Groceries,19.23,27.08
+1685,Simba Chips 120g Unit,Groceries,47.78,64.47
+1686,Koo Baked Beans 410g Pack,Groceries,25.17,38.23
+1687,Nestle Milo 500g Box,Cleaning,6.25,9.26
+1688,Simba Chips 120g Bottle,Bakery,24.34,36.37
+1689,Five Roses Tea 100s Pack,Snacks,21.65,28.46
+1690,Clover Full Cream Milk 1L Pack,Snacks,39.54,56.04
+1691,Koo Baked Beans 410g Bottle,Bakery,8.72,13.5
+1692,Coca-Cola 500ml Bottle,Snacks,44.98,68.4
+1693,Five Roses Tea 100s Unit,Groceries,29.12,40.73
+1694,Omo Washing Powder 2kg Unit,Groceries,24.88,32.79
+1695,Clover Full Cream Milk 1L Pack,Dairy,12.6,18.77
+1696,Simba Chips 120g Bottle,Pantry,43.21,52.31
+1697,Five Roses Tea 100s Unit,Groceries,38.33,54.25
+1698,Nescafe Coffee 200g Pack,Beverages,12.26,16.81
+1699,Sunlight Dish Liquid 750ml Pack,Snacks,21.81,32.6
+1700,Five Roses Tea 100s Box,Bakery,6.26,9.01
+1701,Nestle Milo 500g Box,Bakery,17.33,24.24
+1702,Clover Full Cream Milk 1L Unit,Snacks,29.1,42.22
+1703,Nestle Milo 500g Bottle,Cleaning,12.94,20.32
+1704,Coca-Cola 500ml Box,Beverages,13.92,21.55
+1705,Albany Brown Bread Box,Snacks,49.28,63.57
+1706,Clover Full Cream Milk 1L Bottle,Groceries,46.2,55.63
+1707,Sunlight Dish Liquid 750ml Pack,Beverages,48.7,74.96
+1708,Koo Baked Beans 410g Box,Beverages,33.42,50.37
+1709,Omo Washing Powder 2kg Bottle,Dairy,28.97,36.57
+1710,Coca-Cola 500ml Bottle,Pantry,49.94,66.6
+1711,Clover Full Cream Milk 1L Unit,Pantry,39.7,57.37
+1712,Simba Chips 120g Box,Snacks,28.57,34.61
+1713,Omo Washing Powder 2kg Pack,Beverages,34.31,45.33
+1714,Omo Washing Powder 2kg Box,Pantry,43.08,60.39
+1715,Koo Baked Beans 410g Box,Dairy,29.33,37.89
+1716,Clover Full Cream Milk 1L Pack,Dairy,28.34,35.56
+1717,Nestle Milo 500g Pack,Bakery,45.01,63.73
+1718,Omo Washing Powder 2kg Pack,Cleaning,22.39,31.63
+1719,Omo Washing Powder 2kg Pack,Beverages,42.82,52.59
+1720,Nestle Milo 500g Pack,Beverages,46.25,72.12
+1721,Five Roses Tea 100s Unit,Bakery,44.31,54.07
+1722,Koo Baked Beans 410g Unit,Cleaning,21.62,27.59
+1723,Simba Chips 120g Bottle,Beverages,15.32,19.41
+1724,Nestle Milo 500g Box,Pantry,35.34,46.94
+1725,Nestle Milo 500g Box,Groceries,16.0,21.31
+1726,Nescafe Coffee 200g Box,Dairy,34.81,47.92
+1727,Five Roses Tea 100s Unit,Pantry,30.02,38.48
+1728,Simba Chips 120g Pack,Groceries,47.27,70.38
+1729,Coca-Cola 500ml Unit,Dairy,39.82,54.77
+1730,Sunlight Dish Liquid 750ml Unit,Snacks,23.99,35.4
+1731,Nescafe Coffee 200g Unit,Beverages,43.29,65.56
+1732,Simba Chips 120g Box,Cleaning,10.92,17.38
+1733,Nestle Milo 500g Box,Groceries,45.05,69.59
+1734,Sunlight Dish Liquid 750ml Bottle,Dairy,16.71,26.0
+1735,Albany Brown Bread Unit,Groceries,24.01,37.21
+1736,Omo Washing Powder 2kg Unit,Bakery,42.64,59.51
+1737,Omo Washing Powder 2kg Unit,Cleaning,18.4,23.58
+1738,Sunlight Dish Liquid 750ml Unit,Bakery,35.94,56.26
+1739,Coca-Cola 500ml Unit,Snacks,12.81,19.93
+1740,Sunlight Dish Liquid 750ml Unit,Snacks,46.09,64.32
+1741,Nestle Milo 500g Box,Groceries,31.2,47.18
+1742,Sunlight Dish Liquid 750ml Box,Snacks,30.04,37.43
+1743,Koo Baked Beans 410g Box,Beverages,45.44,54.71
+1744,Sunlight Dish Liquid 750ml Unit,Groceries,12.34,19.15
+1745,Five Roses Tea 100s Unit,Cleaning,18.61,23.37
+1746,Coca-Cola 500ml Box,Bakery,21.91,27.82
+1747,Coca-Cola 500ml Pack,Groceries,49.63,73.61
+1748,Omo Washing Powder 2kg Bottle,Bakery,37.02,58.16
+1749,Coca-Cola 500ml Box,Groceries,23.58,36.63
+1750,Coca-Cola 500ml Unit,Bakery,11.47,14.14
+1751,Nestle Milo 500g Unit,Groceries,25.54,32.8
+1752,Sunlight Dish Liquid 750ml Box,Cleaning,6.3,9.26
+1753,Simba Chips 120g Box,Pantry,12.46,17.58
+1754,Clover Full Cream Milk 1L Pack,Dairy,6.06,8.65
+1755,Albany Brown Bread Bottle,Cleaning,12.13,17.3
+1756,Albany Brown Bread Unit,Bakery,23.11,29.24
+1757,Simba Chips 120g Unit,Groceries,23.14,33.99
+1758,Albany Brown Bread Box,Cleaning,11.27,14.0
+1759,Koo Baked Beans 410g Bottle,Cleaning,11.27,16.01
+1760,Nestle Milo 500g Pack,Cleaning,46.98,57.8
+1761,Omo Washing Powder 2kg Box,Snacks,26.2,33.37
+1762,Five Roses Tea 100s Box,Pantry,17.45,22.56
+1763,Koo Baked Beans 410g Pack,Pantry,40.55,49.51
+1764,Simba Chips 120g Unit,Beverages,47.76,61.54
+1765,Sunlight Dish Liquid 750ml Pack,Pantry,16.83,22.71
+1766,Nestle Milo 500g Box,Groceries,17.9,25.3
+1767,Sunlight Dish Liquid 750ml Box,Dairy,12.29,17.85
+1768,Albany Brown Bread Bottle,Cleaning,19.12,29.98
+1769,Coca-Cola 500ml Bottle,Beverages,40.38,63.32
+1770,Simba Chips 120g Box,Groceries,40.05,48.3
+1771,Omo Washing Powder 2kg Box,Beverages,27.71,39.69
+1772,Nescafe Coffee 200g Unit,Bakery,13.76,19.7
+1773,Coca-Cola 500ml Pack,Pantry,27.09,37.85
+1774,Omo Washing Powder 2kg Box,Pantry,18.84,26.93
+1775,Koo Baked Beans 410g Box,Bakery,49.26,59.61
+1776,Nestle Milo 500g Unit,Pantry,49.82,77.04
+1777,Clover Full Cream Milk 1L Unit,Pantry,7.81,12.12
+1778,Simba Chips 120g Unit,Pantry,24.37,34.5
+1779,Five Roses Tea 100s Box,Bakery,29.13,39.24
+1780,Omo Washing Powder 2kg Bottle,Dairy,12.6,20.06
+1781,Koo Baked Beans 410g Pack,Snacks,39.96,60.93
+1782,Nescafe Coffee 200g Unit,Dairy,13.31,16.96
+1783,Albany Brown Bread Box,Cleaning,32.86,43.42
+1784,Five Roses Tea 100s Unit,Pantry,49.33,67.39
+1785,Five Roses Tea 100s Box,Groceries,13.79,18.91
+1786,Coca-Cola 500ml Bottle,Pantry,49.95,66.86
+1787,Nestle Milo 500g Unit,Cleaning,25.31,30.7
+1788,Five Roses Tea 100s Unit,Dairy,9.88,15.8
+1789,Albany Brown Bread Box,Beverages,42.98,52.79
+1790,Simba Chips 120g Box,Bakery,40.74,52.61
+1791,Omo Washing Powder 2kg Bottle,Cleaning,11.91,14.54
+1792,Coca-Cola 500ml Unit,Beverages,28.36,36.36
+1793,Five Roses Tea 100s Box,Beverages,35.31,56.3
+1794,Nescafe Coffee 200g Bottle,Dairy,21.84,26.63
+1795,Nescafe Coffee 200g Bottle,Snacks,48.11,67.24
+1796,Coca-Cola 500ml Unit,Beverages,42.66,53.8
+1797,Albany Brown Bread Unit,Snacks,14.12,18.12
+1798,Clover Full Cream Milk 1L Pack,Bakery,27.91,39.31
+1799,Koo Baked Beans 410g Bottle,Pantry,39.92,54.15
+1800,Simba Chips 120g Pack,Dairy,23.58,28.71
+1801,Clover Full Cream Milk 1L Unit,Snacks,6.51,10.36
+1802,Albany Brown Bread Box,Beverages,14.57,21.52
+1803,Coca-Cola 500ml Pack,Cleaning,27.36,36.41
+1804,Coca-Cola 500ml Unit,Cleaning,23.66,37.81
+1805,Simba Chips 120g Pack,Groceries,42.55,58.77
+1806,Nescafe Coffee 200g Box,Dairy,21.16,30.98
+1807,Sunlight Dish Liquid 750ml Box,Pantry,37.56,52.54
+1808,Sunlight Dish Liquid 750ml Pack,Beverages,19.44,24.39
+1809,Nestle Milo 500g Box,Snacks,24.41,32.41
+1810,Five Roses Tea 100s Bottle,Bakery,10.22,12.41
+1811,Nestle Milo 500g Pack,Cleaning,33.44,48.14
+1812,Coca-Cola 500ml Bottle,Groceries,12.7,18.04
+1813,Nescafe Coffee 200g Box,Beverages,39.08,59.11
+1814,Coca-Cola 500ml Unit,Snacks,46.27,59.54
+1815,Clover Full Cream Milk 1L Bottle,Groceries,18.51,22.62
+1816,Albany Brown Bread Pack,Groceries,42.99,62.52
+1817,Sunlight Dish Liquid 750ml Unit,Beverages,7.26,9.03
+1818,Simba Chips 120g Box,Bakery,10.49,13.8
+1819,Clover Full Cream Milk 1L Box,Groceries,13.68,18.86
+1820,Omo Washing Powder 2kg Pack,Dairy,32.31,40.83
+1821,Omo Washing Powder 2kg Box,Pantry,48.02,67.37
+1822,Albany Brown Bread Bottle,Bakery,44.16,69.01
+1823,Five Roses Tea 100s Pack,Cleaning,46.92,70.47
+1824,Omo Washing Powder 2kg Box,Bakery,33.26,40.16
+1825,Nestle Milo 500g Bottle,Groceries,15.36,22.45
+1826,Coca-Cola 500ml Box,Groceries,13.7,17.41
+1827,Clover Full Cream Milk 1L Unit,Beverages,34.91,44.56
+1828,Omo Washing Powder 2kg Bottle,Beverages,35.3,47.67
+1829,Five Roses Tea 100s Box,Dairy,15.18,22.9
+1830,Nestle Milo 500g Pack,Cleaning,33.07,41.5
+1831,Nestle Milo 500g Pack,Snacks,41.67,59.39
+1832,Clover Full Cream Milk 1L Unit,Snacks,36.53,47.85
+1833,Coca-Cola 500ml Bottle,Cleaning,6.96,9.87
+1834,Albany Brown Bread Bottle,Snacks,31.54,47.95
+1835,Omo Washing Powder 2kg Box,Beverages,32.69,48.19
+1836,Nestle Milo 500g Bottle,Bakery,45.69,56.91
+1837,Koo Baked Beans 410g Box,Groceries,42.09,64.05
+1838,Five Roses Tea 100s Unit,Pantry,31.11,48.41
+1839,Clover Full Cream Milk 1L Box,Pantry,8.26,12.47
+1840,Clover Full Cream Milk 1L Box,Dairy,10.31,14.78
+1841,Nescafe Coffee 200g Pack,Snacks,7.38,11.05
+1842,Coca-Cola 500ml Bottle,Pantry,35.8,56.3
+1843,Coca-Cola 500ml Bottle,Dairy,17.73,25.16
+1844,Simba Chips 120g Bottle,Dairy,39.17,58.88
+1845,Koo Baked Beans 410g Bottle,Snacks,31.55,43.43
+1846,Omo Washing Powder 2kg Unit,Beverages,48.62,63.75
+1847,Nestle Milo 500g Pack,Snacks,18.28,28.33
+1848,Omo Washing Powder 2kg Bottle,Dairy,23.52,35.68
+1849,Koo Baked Beans 410g Unit,Snacks,8.88,13.47
+1850,Nestle Milo 500g Box,Bakery,21.92,29.23
+1851,Simba Chips 120g Unit,Groceries,43.97,67.17
+1852,Koo Baked Beans 410g Unit,Beverages,21.84,29.03
+1853,Five Roses Tea 100s Bottle,Pantry,33.06,48.06
+1854,Koo Baked Beans 410g Box,Pantry,46.76,63.12
+1855,Sunlight Dish Liquid 750ml Pack,Beverages,39.76,59.49
+1856,Sunlight Dish Liquid 750ml Box,Cleaning,34.66,54.62
+1857,Nestle Milo 500g Bottle,Snacks,16.69,22.66
+1858,Nestle Milo 500g Pack,Pantry,21.3,31.54
+1859,Sunlight Dish Liquid 750ml Box,Pantry,20.11,24.57
+1860,Koo Baked Beans 410g Unit,Bakery,21.33,30.9
+1861,Omo Washing Powder 2kg Bottle,Beverages,8.68,12.43
+1862,Clover Full Cream Milk 1L Unit,Bakery,27.79,38.6
+1863,Simba Chips 120g Unit,Beverages,46.72,69.21
+1864,Nescafe Coffee 200g Unit,Cleaning,21.18,27.92
+1865,Clover Full Cream Milk 1L Bottle,Cleaning,11.75,15.82
+1866,Omo Washing Powder 2kg Unit,Snacks,31.53,49.73
+1867,Sunlight Dish Liquid 750ml Pack,Pantry,37.63,46.98
+1868,Sunlight Dish Liquid 750ml Unit,Pantry,43.09,64.21
+1869,Nescafe Coffee 200g Pack,Cleaning,6.41,8.96
+1870,Simba Chips 120g Box,Dairy,45.78,60.68
+1871,Sunlight Dish Liquid 750ml Unit,Cleaning,23.61,30.48
+1872,Five Roses Tea 100s Unit,Pantry,17.28,21.9
+1873,Albany Brown Bread Pack,Bakery,9.62,14.07
+1874,Simba Chips 120g Pack,Snacks,41.21,58.71
+1875,Nestle Milo 500g Bottle,Beverages,14.53,18.02
+1876,Coca-Cola 500ml Box,Beverages,9.27,13.12
+1877,Sunlight Dish Liquid 750ml Unit,Snacks,34.34,45.94
+1878,Clover Full Cream Milk 1L Bottle,Cleaning,40.25,51.66
+1879,Omo Washing Powder 2kg Unit,Dairy,47.71,72.04
+1880,Albany Brown Bread Box,Groceries,22.97,31.38
+1881,Simba Chips 120g Pack,Pantry,15.39,22.28
+1882,Clover Full Cream Milk 1L Pack,Cleaning,13.86,21.64
+1883,Five Roses Tea 100s Bottle,Bakery,46.59,74.16
+1884,Sunlight Dish Liquid 750ml Box,Cleaning,46.81,65.24
+1885,Five Roses Tea 100s Pack,Beverages,43.86,54.28
+1886,Simba Chips 120g Box,Snacks,19.74,28.35
+1887,Sunlight Dish Liquid 750ml Unit,Pantry,7.32,9.68
+1888,Five Roses Tea 100s Unit,Dairy,28.63,45.47
+1889,Five Roses Tea 100s Pack,Snacks,48.12,73.06
+1890,Koo Baked Beans 410g Pack,Dairy,11.83,15.75
+1891,Omo Washing Powder 2kg Unit,Snacks,37.07,57.52
+1892,Coca-Cola 500ml Pack,Beverages,31.02,47.24
+1893,Sunlight Dish Liquid 750ml Unit,Snacks,19.64,27.78
+1894,Five Roses Tea 100s Bottle,Cleaning,6.41,10.1
+1895,Omo Washing Powder 2kg Bottle,Dairy,38.85,58.56
+1896,Omo Washing Powder 2kg Unit,Bakery,11.18,16.63
+1897,Nestle Milo 500g Box,Dairy,13.83,17.89
+1898,Simba Chips 120g Pack,Dairy,11.58,16.34
+1899,Coca-Cola 500ml Bottle,Bakery,34.14,49.86
+1900,Five Roses Tea 100s Box,Dairy,41.88,53.34
+1901,Nestle Milo 500g Box,Snacks,34.49,53.15
+1902,Clover Full Cream Milk 1L Bottle,Snacks,33.0,51.8
+1903,Nescafe Coffee 200g Bottle,Cleaning,12.37,18.76
+1904,Nestle Milo 500g Box,Groceries,7.34,10.73
+1905,Five Roses Tea 100s Pack,Dairy,46.94,62.24
+1906,Clover Full Cream Milk 1L Unit,Beverages,16.87,25.19
+1907,Nescafe Coffee 200g Unit,Bakery,26.75,39.63
+1908,Nescafe Coffee 200g Box,Groceries,19.82,26.05
+1909,Sunlight Dish Liquid 750ml Pack,Groceries,20.28,27.41
+1910,Coca-Cola 500ml Bottle,Groceries,18.08,25.92
+1911,Omo Washing Powder 2kg Bottle,Groceries,6.43,9.88
+1912,Simba Chips 120g Pack,Dairy,45.28,70.03
+1913,Five Roses Tea 100s Bottle,Snacks,27.3,41.36
+1914,Coca-Cola 500ml Bottle,Bakery,21.6,33.15
+1915,Coca-Cola 500ml Box,Groceries,7.95,10.03
+1916,Clover Full Cream Milk 1L Box,Cleaning,19.21,25.22
+1917,Nescafe Coffee 200g Box,Bakery,46.53,59.56
+1918,Albany Brown Bread Box,Bakery,35.73,45.71
+1919,Sunlight Dish Liquid 750ml Bottle,Pantry,26.41,34.63
+1920,Coca-Cola 500ml Pack,Beverages,25.28,32.37
+1921,Clover Full Cream Milk 1L Box,Beverages,39.44,49.42
+1922,Sunlight Dish Liquid 750ml Bottle,Groceries,38.29,48.53
+1923,Nestle Milo 500g Unit,Snacks,45.58,60.87
+1924,Koo Baked Beans 410g Bottle,Bakery,20.76,29.84
+1925,Sunlight Dish Liquid 750ml Unit,Pantry,49.98,71.61
+1926,Albany Brown Bread Bottle,Snacks,30.43,42.57
+1927,Omo Washing Powder 2kg Pack,Pantry,31.03,40.52
+1928,Clover Full Cream Milk 1L Unit,Cleaning,23.83,35.77
+1929,Simba Chips 120g Box,Snacks,13.52,19.77
+1930,Nestle Milo 500g Pack,Cleaning,31.54,47.25
+1931,Clover Full Cream Milk 1L Pack,Groceries,30.24,40.63
+1932,Coca-Cola 500ml Pack,Snacks,23.16,33.78
+1933,Nestle Milo 500g Pack,Groceries,42.2,56.86
+1934,Simba Chips 120g Pack,Pantry,8.55,12.95
+1935,Clover Full Cream Milk 1L Bottle,Cleaning,35.82,49.05
+1936,Coca-Cola 500ml Unit,Bakery,45.63,66.27
+1937,Coca-Cola 500ml Bottle,Beverages,45.39,68.56
+1938,Sunlight Dish Liquid 750ml Pack,Groceries,5.4,7.06
+1939,Five Roses Tea 100s Unit,Beverages,49.3,65.48
+1940,Simba Chips 120g Unit,Cleaning,48.0,71.94
+1941,Five Roses Tea 100s Unit,Pantry,33.38,41.3
+1942,Albany Brown Bread Unit,Bakery,30.86,45.77
+1943,Simba Chips 120g Bottle,Bakery,8.05,12.4
+1944,Simba Chips 120g Bottle,Cleaning,39.75,53.21
+1945,Clover Full Cream Milk 1L Pack,Cleaning,29.85,36.8
+1946,Koo Baked Beans 410g Bottle,Pantry,9.68,15.12
+1947,Koo Baked Beans 410g Pack,Snacks,9.04,11.22
+1948,Nescafe Coffee 200g Bottle,Cleaning,35.73,55.67
+1949,Sunlight Dish Liquid 750ml Pack,Snacks,6.32,7.94
+1950,Omo Washing Powder 2kg Bottle,Beverages,36.12,45.67
+1951,Albany Brown Bread Bottle,Dairy,22.93,31.65
+1952,Clover Full Cream Milk 1L Bottle,Groceries,33.84,43.06
+1953,Clover Full Cream Milk 1L Box,Snacks,17.68,27.81
+1954,Simba Chips 120g Box,Bakery,15.44,19.4
+1955,Koo Baked Beans 410g Unit,Cleaning,27.62,38.12
+1956,Coca-Cola 500ml Box,Beverages,13.76,20.79
+1957,Nescafe Coffee 200g Pack,Beverages,27.23,37.32
+1958,Five Roses Tea 100s Box,Pantry,15.02,19.96
+1959,Five Roses Tea 100s Bottle,Dairy,47.03,59.0
+1960,Coca-Cola 500ml Unit,Pantry,32.89,40.02
+1961,Five Roses Tea 100s Unit,Cleaning,11.35,17.46
+1962,Five Roses Tea 100s Unit,Dairy,14.97,19.93
+1963,Koo Baked Beans 410g Box,Bakery,14.27,21.68
+1964,Nescafe Coffee 200g Pack,Groceries,16.27,25.5
+1965,Nescafe Coffee 200g Box,Pantry,17.14,23.54
+1966,Nestle Milo 500g Bottle,Beverages,12.01,17.07
+1967,Albany Brown Bread Pack,Dairy,22.88,35.38
+1968,Simba Chips 120g Unit,Groceries,32.42,49.36
+1969,Omo Washing Powder 2kg Box,Dairy,21.2,33.56
+1970,Koo Baked Beans 410g Unit,Cleaning,22.58,33.42
+1971,Clover Full Cream Milk 1L Bottle,Bakery,33.34,50.86
+1972,Clover Full Cream Milk 1L Bottle,Beverages,22.57,28.85
+1973,Simba Chips 120g Unit,Snacks,5.92,8.0
+1974,Albany Brown Bread Box,Pantry,26.5,41.68
+1975,Clover Full Cream Milk 1L Pack,Pantry,24.14,33.66
+1976,Nescafe Coffee 200g Pack,Dairy,30.28,46.09
+1977,Coca-Cola 500ml Bottle,Bakery,40.34,49.35
+1978,Five Roses Tea 100s Box,Beverages,35.79,55.56
+1979,Nestle Milo 500g Bottle,Pantry,9.65,15.28
+1980,Omo Washing Powder 2kg Box,Groceries,40.33,55.71
+1981,Omo Washing Powder 2kg Box,Beverages,19.74,24.9
+1982,Five Roses Tea 100s Unit,Bakery,17.72,27.56
+1983,Nescafe Coffee 200g Bottle,Beverages,29.11,40.75
+1984,Albany Brown Bread Unit,Pantry,21.48,33.12
+1985,Sunlight Dish Liquid 750ml Pack,Pantry,36.81,54.9
+1986,Koo Baked Beans 410g Bottle,Snacks,44.75,66.11
+1987,Sunlight Dish Liquid 750ml Pack,Beverages,37.76,47.1
+1988,Nescafe Coffee 200g Bottle,Pantry,27.9,41.09
+1989,Nestle Milo 500g Pack,Cleaning,40.28,64.32
+1990,Clover Full Cream Milk 1L Pack,Cleaning,38.61,51.95
+1991,Koo Baked Beans 410g Unit,Groceries,29.01,36.5
+1992,Coca-Cola 500ml Pack,Snacks,49.68,65.7
+1993,Albany Brown Bread Bottle,Cleaning,24.84,37.56
+1994,Albany Brown Bread Bottle,Bakery,11.14,13.89
+1995,Simba Chips 120g Box,Cleaning,37.33,46.99
+1996,Omo Washing Powder 2kg Bottle,Dairy,11.63,17.34
+1997,Sunlight Dish Liquid 750ml Pack,Pantry,14.34,17.28
+1998,Nescafe Coffee 200g Unit,Beverages,36.63,46.7
+1999,Nestle Milo 500g Box,Cleaning,27.13,35.81
+2000,Nestle Milo 500g Pack,Groceries,36.56,55.36

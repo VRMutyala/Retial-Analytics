@@ -1,0 +1,201 @@
+store_id,store_name,city,province
+S001,Shoprite Durban,Durban,KwaZulu-Natal
+S002,Pick n Pay George,George,Western Cape
+S003,Checkers Durban,Durban,KwaZulu-Natal
+S004,Woolworths Johannesburg,Johannesburg,Gauteng
+S005,Spar Gqeberha,Gqeberha,Eastern Cape
+S006,Shoprite East London,East London,Eastern Cape
+S007,Shoprite Pretoria,Pretoria,Gauteng
+S008,Spar Kimberley,Kimberley,Northern Cape
+S009,Spar George,George,Western Cape
+S010,Shoprite Gqeberha,Gqeberha,Eastern Cape
+S011,Spar Cape Town,Cape Town,Western Cape
+S012,Pick n Pay Bloemfontein,Bloemfontein,Free State
+S013,Pick n Pay Polokwane,Polokwane,Limpopo
+S014,Woolworths Kimberley,Kimberley,Northern Cape
+S015,Spar Nelspruit,Nelspruit,Mpumalanga
+S016,Shoprite Cape Town,Cape Town,Western Cape
+S017,Spar Rustenburg,Rustenburg,North West
+S018,Checkers Bloemfontein,Bloemfontein,Free State
+S019,Spar Durban,Durban,KwaZulu-Natal
+S020,Spar George,George,Western Cape
+S021,Shoprite Bloemfontein,Bloemfontein,Free State
+S022,Woolworths Johannesburg,Johannesburg,Gauteng
+S023,Shoprite Johannesburg,Johannesburg,Gauteng
+S024,Checkers Gqeberha,Gqeberha,Eastern Cape
+S025,Spar Gqeberha,Gqeberha,Eastern Cape
+S026,Checkers Bloemfontein,Bloemfontein,Free State
+S027,Pick n Pay Johannesburg,Johannesburg,Gauteng
+S028,Pick n Pay Cape Town,Cape Town,Western Cape
+S029,Spar Pretoria,Pretoria,Gauteng
+S030,Spar George,George,Western Cape
+S031,Spar George,George,Western Cape
+S032,Shoprite Polokwane,Polokwane,Limpopo
+S033,Checkers Polokwane,Polokwane,Limpopo
+S034,Shoprite Johannesburg,Johannesburg,Gauteng
+S035,Pick n Pay Gqeberha,Gqeberha,Eastern Cape
+S036,Checkers Bloemfontein,Bloemfontein,Free State
+S037,Checkers Bloemfontein,Bloemfontein,Free State
+S038,Woolworths George,George,Western Cape
+S039,Woolworths East London,East London,Eastern Cape
+S040,Checkers George,George,Western Cape
+S041,Spar Kimberley,Kimberley,Northern Cape
+S042,Woolworths Cape Town,Cape Town,Western Cape
+S043,Woolworths Polokwane,Polokwane,Limpopo
+S044,Spar Pretoria,Pretoria,Gauteng
+S045,Pick n Pay Johannesburg,Johannesburg,Gauteng
+S046,Checkers Nelspruit,Nelspruit,Mpumalanga
+S047,Shoprite Polokwane,Polokwane,Limpopo
+S048,Woolworths Johannesburg,Johannesburg,Gauteng
+S049,Woolworths Durban,Durban,KwaZulu-Natal
+S050,Checkers Nelspruit,Nelspruit,Mpumalanga
+S051,Checkers Durban,Durban,KwaZulu-Natal
+S052,Shoprite Cape Town,Cape Town,Western Cape
+S053,Shoprite Durban,Durban,KwaZulu-Natal
+S054,Woolworths Polokwane,Polokwane,Limpopo
+S055,Woolworths Rustenburg,Rustenburg,North West
+S056,Spar Kimberley,Kimberley,Northern Cape
+S057,Woolworths Johannesburg,Johannesburg,Gauteng
+S058,Woolworths Polokwane,Polokwane,Limpopo
+S059,Shoprite Bloemfontein,Bloemfontein,Free State
+S060,Shoprite Nelspruit,Nelspruit,Mpumalanga
+S061,Spar Bloemfontein,Bloemfontein,Free State
+S062,Spar Durban,Durban,KwaZulu-Natal
+S063,Pick n Pay Rustenburg,Rustenburg,North West
+S064,Spar Cape Town,Cape Town,Western Cape
+S065,Pick n Pay Pretoria,Pretoria,Gauteng
+S066,Checkers Durban,Durban,KwaZulu-Natal
+S067,Checkers Polokwane,Polokwane,Limpopo
+S068,Checkers Durban,Durban,KwaZulu-Natal
+S069,Checkers Durban,Durban,KwaZulu-Natal
+S070,Shoprite George,George,Western Cape
+S071,Woolworths Bloemfontein,Bloemfontein,Free State
+S072,Shoprite Polokwane,Polokwane,Limpopo
+S073,Woolworths Kimberley,Kimberley,Northern Cape
+S074,Pick n Pay Cape Town,Cape Town,Western Cape
+S075,Pick n Pay Polokwane,Polokwane,Limpopo
+S076,Woolworths Polokwane,Polokwane,Limpopo
+S077,Checkers Cape Town,Cape Town,Western Cape
+S078,Woolworths Cape Town,Cape Town,Western Cape
+S079,Shoprite Polokwane,Polokwane,Limpopo
+S080,Woolworths George,George,Western Cape
+S081,Shoprite Johannesburg,Johannesburg,Gauteng
+S082,Shoprite Polokwane,Polokwane,Limpopo
+S083,Woolworths Polokwane,Polokwane,Limpopo
+S084,Woolworths Bloemfontein,Bloemfontein,Free State
+S085,Pick n Pay Durban,Durban,KwaZulu-Natal
+S086,Woolworths Johannesburg,Johannesburg,Gauteng
+S087,Woolworths Polokwane,Polokwane,Limpopo
+S088,Woolworths Bloemfontein,Bloemfontein,Free State
+S089,Pick n Pay Rustenburg,Rustenburg,North West
+S090,Pick n Pay Kimberley,Kimberley,Northern Cape
+S091,Spar Nelspruit,Nelspruit,Mpumalanga
+S092,Spar Johannesburg,Johannesburg,Gauteng
+S093,Spar Durban,Durban,KwaZulu-Natal
+S094,Shoprite East London,East London,Eastern Cape
+S095,Shoprite Pretoria,Pretoria,Gauteng
+S096,Pick n Pay Gqeberha,Gqeberha,Eastern Cape
+S097,Shoprite George,George,Western Cape
+S098,Pick n Pay Johannesburg,Johannesburg,Gauteng
+S099,Pick n Pay Rustenburg,Rustenburg,North West
+S100,Shoprite Durban,Durban,KwaZulu-Natal
+S101,Pick n Pay Bloemfontein,Bloemfontein,Free State
+S102,Shoprite Cape Town,Cape Town,Western Cape
+S103,Pick n Pay East London,East London,Eastern Cape
+S104,Shoprite Bloemfontein,Bloemfontein,Free State
+S105,Pick n Pay Polokwane,Polokwane,Limpopo
+S106,Pick n Pay Bloemfontein,Bloemfontein,Free State
+S107,Woolworths East London,East London,Eastern Cape
+S108,Pick n Pay George,George,Western Cape
+S109,Shoprite George,George,Western Cape
+S110,Spar George,George,Western Cape
+S111,Checkers Gqeberha,Gqeberha,Eastern Cape
+S112,Spar Nelspruit,Nelspruit,Mpumalanga
+S113,Woolworths East London,East London,Eastern Cape
+S114,Shoprite Rustenburg,Rustenburg,North West
+S115,Pick n Pay Polokwane,Polokwane,Limpopo
+S116,Shoprite Bloemfontein,Bloemfontein,Free State
+S117,Spar Durban,Durban,KwaZulu-Natal
+S118,Spar Polokwane,Polokwane,Limpopo
+S119,Pick n Pay Kimberley,Kimberley,Northern Cape
+S120,Spar Polokwane,Polokwane,Limpopo
+S121,Spar Bloemfontein,Bloemfontein,Free State
+S122,Pick n Pay Bloemfontein,Bloemfontein,Free State
+S123,Spar George,George,Western Cape
+S124,Pick n Pay Cape Town,Cape Town,Western Cape
+S125,Woolworths Rustenburg,Rustenburg,North West
+S126,Shoprite East London,East London,Eastern Cape
+S127,Spar Nelspruit,Nelspruit,Mpumalanga
+S128,Shoprite Durban,Durban,KwaZulu-Natal
+S129,Woolworths Durban,Durban,KwaZulu-Natal
+S130,Checkers Gqeberha,Gqeberha,Eastern Cape
+S131,Pick n Pay Johannesburg,Johannesburg,Gauteng
+S132,Shoprite Durban,Durban,KwaZulu-Natal
+S133,Woolworths Durban,Durban,KwaZulu-Natal
+S134,Spar Durban,Durban,KwaZulu-Natal
+S135,Shoprite Bloemfontein,Bloemfontein,Free State
+S136,Pick n Pay Bloemfontein,Bloemfontein,Free State
+S137,Woolworths Johannesburg,Johannesburg,Gauteng
+S138,Checkers Durban,Durban,KwaZulu-Natal
+S139,Shoprite Bloemfontein,Bloemfontein,Free State
+S140,Spar Rustenburg,Rustenburg,North West
+S141,Pick n Pay Bloemfontein,Bloemfontein,Free State
+S142,Woolworths Polokwane,Polokwane,Limpopo
+S143,Woolworths Johannesburg,Johannesburg,Gauteng
+S144,Spar Polokwane,Polokwane,Limpopo
+S145,Spar Nelspruit,Nelspruit,Mpumalanga
+S146,Pick n Pay East London,East London,Eastern Cape
+S147,Shoprite Durban,Durban,KwaZulu-Natal
+S148,Pick n Pay Johannesburg,Johannesburg,Gauteng
+S149,Woolworths Durban,Durban,KwaZulu-Natal
+S150,Pick n Pay Kimberley,Kimberley,Northern Cape
+S151,Spar Johannesburg,Johannesburg,Gauteng
+S152,Shoprite Cape Town,Cape Town,Western Cape
+S153,Woolworths Cape Town,Cape Town,Western Cape
+S154,Pick n Pay Bloemfontein,Bloemfontein,Free State
+S155,Pick n Pay Rustenburg,Rustenburg,North West
+S156,Pick n Pay Johannesburg,Johannesburg,Gauteng
+S157,Checkers Durban,Durban,KwaZulu-Natal
+S158,Checkers Pretoria,Pretoria,Gauteng
+S159,Spar Kimberley,Kimberley,Northern Cape
+S160,Woolworths Rustenburg,Rustenburg,North West
+S161,Shoprite Gqeberha,Gqeberha,Eastern Cape
+S162,Checkers Cape Town,Cape Town,Western Cape
+S163,Checkers Nelspruit,Nelspruit,Mpumalanga
+S164,Woolworths Rustenburg,Rustenburg,North West
+S165,Pick n Pay Nelspruit,Nelspruit,Mpumalanga
+S166,Woolworths Durban,Durban,KwaZulu-Natal
+S167,Woolworths Bloemfontein,Bloemfontein,Free State
+S168,Woolworths Kimberley,Kimberley,Northern Cape
+S169,Pick n Pay George,George,Western Cape
+S170,Checkers East London,East London,Eastern Cape
+S171,Checkers Rustenburg,Rustenburg,North West
+S172,Pick n Pay Kimberley,Kimberley,Northern Cape
+S173,Woolworths Pretoria,Pretoria,Gauteng
+S174,Shoprite Polokwane,Polokwane,Limpopo
+S175,Pick n Pay George,George,Western Cape
+S176,Pick n Pay Durban,Durban,KwaZulu-Natal
+S177,Woolworths George,George,Western Cape
+S178,Spar George,George,Western Cape
+S179,Pick n Pay Polokwane,Polokwane,Limpopo
+S180,Pick n Pay George,George,Western Cape
+S181,Woolworths Kimberley,Kimberley,Northern Cape
+S182,Checkers Pretoria,Pretoria,Gauteng
+S183,Checkers Durban,Durban,KwaZulu-Natal
+S184,Spar East London,East London,Eastern Cape
+S185,Pick n Pay Cape Town,Cape Town,Western Cape
+S186,Pick n Pay Bloemfontein,Bloemfontein,Free State
+S187,Woolworths Bloemfontein,Bloemfontein,Free State
+S188,Woolworths Nelspruit,Nelspruit,Mpumalanga
+S189,Woolworths Kimberley,Kimberley,Northern Cape
+S190,Shoprite Cape Town,Cape Town,Western Cape
+S191,Woolworths Pretoria,Pretoria,Gauteng
+S192,Checkers Johannesburg,Johannesburg,Gauteng
+S193,Shoprite George,George,Western Cape
+S194,Woolworths Nelspruit,Nelspruit,Mpumalanga
+S195,Pick n Pay Pretoria,Pretoria,Gauteng
+S196,Woolworths Bloemfontein,Bloemfontein,Free State
+S197,Checkers Durban,Durban,KwaZulu-Natal
+S198,Woolworths Nelspruit,Nelspruit,Mpumalanga
+S199,Woolworths Durban,Durban,KwaZulu-Natal
+S200,Pick n Pay Cape Town,Cape Town,Western Cape
